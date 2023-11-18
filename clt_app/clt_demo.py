@@ -2,10 +2,13 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.title('Illustrating the Central Limit Theorem with Streamlit')
-st.subheader('An App by Tyler Richards')
+st.markdown(''''
+# Illustrating the Central Limit Theorem with Streamlit  
+## An App by Tyler Richards
+            ''')
+
 st.write(('This app simulates a thousand coin flips using the chance of heads input below,'
-     'and then samples with replacement from that population and plots the histogram of the'
+     ' and then samples with replacement from that population and plots the histogram of the'
      ' means of the samples in order to illustrate the central limit theorem!'))
 
 perc_heads = st.number_input(label = 'Chance of Coins Landing on Heads', 
