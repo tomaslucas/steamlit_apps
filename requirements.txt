@@ -1,2 +1,4 @@
 streamlit >= 1.13.0
 matplotlib>=3.6.2
+polars>=0.19.14
+seaborn>=0.13.0
