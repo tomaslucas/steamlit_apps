@@ -33,13 +33,6 @@ rfc.fit(x_train, y_train)
 y_pred = rfc.predict(x_test)
 score = accuracy_score(y_pred, y_test)
 print(f'Our accuracy score for this model is {score}')
-
-# Verificar predicciones adicionales
-# print(f'Return {rfc.predict([[50,10,5,5,1,0,0,1,0]])} : {uniques[rfc.predict([[50,10,5,5,1,0,0,1,0]])]}')
-# print(f'Return {rfc.predict([[10,30,15,5,0,0,0,0,1]])} : {uniques[rfc.predict([[10,30,15,5,0,0,0,0,1]])]}')
-# print(f'Return {rfc.predict([[46,13,211,5500,0,0,1,0,1]])} : {uniques[rfc.predict([[46,13,211,5500,0,0,1,0,1]])]}')
-# print(f'Return {rfc.predict([[0,0,0,0,1,0,0,1,0]])} : {uniques[rfc.predict([[0,0,0,0,1,0,0,1,0]])]}')
-# print(uniques.tolist())
       
 rf_pickle = open('random_forest_penguin.pickle', 'wb')
 pickle.dump(rfc, rf_pickle)
