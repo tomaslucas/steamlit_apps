@@ -24,11 +24,8 @@ df_dbh_grouped = (trees_df
                   .sort('dbh')
                  )
 
-tab1, tab2, tab3 = st.tabs(["Line Chart", "Bar Chart", "Area Chart"])
+st.line_chart(df_dbh_grouped, x='dbh', y='tree_count')
 
-with tab1:
-    st.line_chart(df_dbh_grouped, x='dbh', y='tree_count')
-with tab2:
-    st.bar_chart(df_dbh_grouped, x='dbh', y='tree_count')
-with tab3:
-    st.area_chart(df_dbh_grouped, x='dbh', y='tree_count')
+trees_df = trees_df.drop_nulls(subset=['longitude', 'latitude'])
+trees_df = trees_df.sample(n=1000, with_replacement=True)
+st.map(trees_df)
