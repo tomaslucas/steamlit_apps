@@ -36,9 +36,3 @@ with col2:
         color_discrete_sequence=[graph_color],)
     st.plotly_chart(fig, use_container_width=True)
  
-st.write("Trees by Location")
-trees_df = trees_df.dropna(
-    subset=["longitude", "latitude"])
-trees_df = trees_df.sample(
-    n=1000, replace=True)
-st.map(trees_df)

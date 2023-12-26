@@ -32,7 +32,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 98372,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,89 Montana St,1.0,Sidewalk: Curb side : Cutout,Private,2012-02-07,,3x3,37.7163800987704,-122.45581514154499
 53654,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,1323 Polk St,1.0,Sidewalk: Curb side : Cutout,Private,1969-12-17,2.0,,37.789079487478205,-122.420468261828
 88156,DPW Maintained,Pyrus calleryana :: Ornamental Pear,353 Clementina St,1.0,Sidewalk: Curb side : Cutout,Private,2008-07-08,3.0,3x3,37.781537513589,-122.40279954895901
-259622,DPW Maintained,::,1498x Visitacion Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2019-06-01,3.0,,,
 65883,DPW Maintained,Ceratonia siliqua :: Carob,3100X Fillmore St,1.0,Sidewalk: Curb side : Cutout,Private,2013-04-23,3.0,,37.798174776289294,-122.435637321312
 37009,Permitted Site,Liquidambar styraciflua :: American Sweet Gum,1160 Alabama St,1.0,Sidewalk: Curb side : Cutout,Private,2002-06-08,,,37.753311244715704,-122.41111443855101
 32693,DPW Maintained,Chamaerops humilis :: Mediterranean Fan Palm,3732 23rd St,1.0,Sidewalk: Curb side : Cutout,Private,1996-10-29,1.0,,37.7534451551954,-122.42610311279199
@@ -183,12 +182,10 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 105470,DPW Maintained,Platanus x hispanica :: Sycamore: London Plane,833 Jamestown Ave,5.0,Sidewalk: Curb side : Cutout,Private,2014-01-30,,3x3,37.7166342161119,-122.390516776389
 64748,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,131 03rd Ave,1.0,Sidewalk: Curb side : Cutout,Private,1988-11-15,13.0,,37.7862138320264,-122.461516681889
 33183,Permitted Site,Magnolia grandiflora :: Southern Magnolia,535 Dewey Blvd,2.0,Sidewalk: Curb side : Cutout,Private,1996-11-06,,,37.7448706829396,-122.46213852986901
-259337,DPW Maintained,Laurus x 'Saratoga' :: Hybrid Laurel,2x Silliman St,1.0,Sidewalk: Curb side : Cutout,DPW,2019-04-27,3.0,,,
 15799,DPW Maintained,Washingtonia robusta :: Mexican Fan Palm,4950 Mission St,5.0,Sidewalk: Curb side : Cutout,DPW,2003-08-08,12.0,3X3,37.7195877108284,-122.438839886053
 85930,DPW Maintained,Prunus serrulata :: Ornamental Cherry,1696 26th Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2006-12-18,3.0,3x3,37.7559513307755,-122.484034021792
 68999,DPW Maintained,Olea europaea :: Olive Tree,1937 48th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1994-01-04,3.0,,37.750292434094796,-122.507442861533
 49592,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,2333  REVISED Buchanan St,6.0,Sidewalk: Curb side : Cutout,Private,2003-05-16,4.0,,37.7906193964074,-122.43089869812599
-259101,DPW Maintained,Lophostemon confertus :: Brisbane Box,600 Visitacion Ave,3.0,Sidewalk: Curb side : Cutout,DPW,2019-03-30,3.0,,,
 254740,Planning Code 138.1 required,Metrosideros excelsa :: New Zealand Xmas Tree,1814 42nd Ave,1.0,Sidewalk: Property side : Cutout,Private,2018-03-27,3.0,3x3,37.752798609062,-122.500934388909
 66274,DPW Maintained,Pittosporum undulatum :: Victorian Box,900 Hyde St,1.0,Sidewalk: Curb side : Cutout,Private,2013-11-01,2.0,4x4,37.789275246315796,-122.416960995177
 50181,Permitted Site,Eriobotrya deflexa :: Bronze Loquat,1223 Shrader St,1.0,Sidewalk: Curb side : Cutout,Private,2003-08-18,,,37.7636319916344,-122.4510905637
@@ -205,7 +202,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 214188,DPW Maintained,Schinus terebinthifolius :: Brazilian Pepper,358 San Benito Way,1.0,Sidewalk: Curb side : Cutout,Private,1972-02-03,21.0,Width 3ft,37.7301878137975,-122.467274844971
 84622,DPW Maintained,Jacaranda mimosifolia :: Jacaranda,382 Texas St,1.0,Sidewalk: Curb side : Cutout,Private,2006-10-21,5.0,,37.761646197043,-122.395580621644
 79685,Permitted Site,Pinus radiata :: Monterey Pine,2 Hahn St,1.0,Sidewalk: Curb side : Cutout,Private,2008-04-18,,3x3,37.7145577712837,-122.414920709681
-61760,Permitted Site,Maytenus boaria :: Mayten,3739 Landers St,1.0,Sidewalk: Curb side : Cutout,Private,1984-12-19,,,,
 46162,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1596 Howard St,1.0,Sidewalk: Curb side : Cutout,Private,2006-06-26,3.0,,37.7721288728888,-122.416716059419
 45117,Permitted Site,Crataegus laevigata :: English Hawthorn,201 Buena Vista Ave East,3.0,Sidewalk: Curb side : Cutout,Private,2001-05-14,,,37.7689477239633,-122.438303322299
 52686,DPW Maintained,Ulmus spp :: Elm Spp,1616@ BROADWAY Taylor St,1.0,Sidewalk: Curb side : Cutout,Private,2006-03-30,4.0,,37.79734436840229,-122.41354405161002
@@ -425,7 +421,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 8099,Permitted Site,Pyrus kawakamii :: Evergreen Pear,765 Fulton St,2.0,Sidewalk: Curb side : Cutout,Private,1998-04-14,8.0,3X3,37.7779255322683,-122.429133010837
 109280,DPW Maintained,Washingtonia robusta :: Mexican Fan Palm,4205 Lawton St,2.0,Sidewalk: Curb side : Cutout,Private,2015-02-05,3.0,3x3,37.7564247125175,-122.508035196592
 91339,DPW Maintained,Ulmus parvifolia :: Chinese Elm,829 Folsom St,2.0,Sidewalk: Curb side : Cutout,Private,2009-02-23,1.0,3x3,37.7813840839391,-122.401812466037
-108593,Permitted Site,Olea europaea 'Fruitless' :: Fruitless Olive,530 Moraga Ave,1.0,Sidewalk: Curb side : Cutout,Private,2014-12-29,3.0,3x3,,
 32112,Permitted Site,Prunus cerasifera :: Cherry Plum,230 Sanchez St,3.0,Sidewalk: Curb side : Cutout,Private,1995-08-09,,,37.7653876747993,-122.43106961772101
 85578,DPW Maintained,Magnolia grandiflora 'Samuel Sommer' :: Samuel Sommer Magnolia,1388 Palou Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2007-03-21,3.0,3x3,37.7317678372886,-122.386889636739
 44183,DPW Maintained,Pyrus calleryana :: Ornamental Pear,523 33rd Ave,1.0,Sidewalk: Curb side : Cutout,Private,2000-12-19,4.0,,37.7791262314693,-122.493339250227
@@ -460,7 +455,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 51244,Permitted Site,Prunus serrulata :: Ornamental Cherry,31 Majestic Ave,1.0,Sidewalk: Curb side : Cutout,Private,2004-08-17,,,37.7178813535714,-122.451030121405
 11330,DPW Maintained,Photinia fraseri :: Photinia: Chinese photinia,1239 Ingalls St,1.0,Sidewalk: Curb side : Cutout,DPW,1999-02-02,80.0,3X3,37.7305471093878,-122.38177755767299
 66143,DPW Maintained,Pittosporum undulatum :: Victorian Box,39 Capra Way,1.0,Sidewalk: Curb side : Cutout,Private,1990-08-18,11.0,,37.8027755442143,-122.439222426376
-35702,Permitted Site,Liriodendron tulipifera :: Tulip Tree,,15.0,Sidewalk: Curb side : Cutout,Private,1998-04-10,,,,
 7563,DPW Maintained,Ulmus parvifolia :: Chinese Elm,2928 Folsom St,1.0,Sidewalk: Curb side : Cutout,DPW,2011-01-05,3.0,3x3,37.7503527158034,-122.413987266292
 34277,Permitted Site,Crataegus phaenopyrum :: Washington Hawthorn,190 28th Ave,2.0,Sidewalk: Curb side : Cutout,Private,2009-06-30,,3x3,37.7857826757644,-122.488142750795
 91258,DPW Maintained,Acacia stenophylla :: Shoestring Acacia,948x Guerrero St,1.0,Median : Cutout,DPW,2008-11-20,3.0,3x100,37.755982533848794,-122.423301390711
@@ -549,7 +543,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 61344,Permitted Site,Acacia baileyana :: Bailey's Acacia,477 Hickory St,1.0,Sidewalk: Curb side : Cutout,Private,1984-03-17,,,37.7748381087345,-122.42721871600901
 66517,Permitted Site,Schinus terebinthifolius :: Brazilian Pepper,4172 25th St,1.0,Sidewalk: Curb side : Cutout,Private,1991-03-22,,,37.7498044269933,-122.43331787905001
 89446,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,3130 Anza St,1.0,Sidewalk: Curb side : Cutout,DPW,2016-03-09,3.0,3x3,37.7783684393854,-122.481997678399
-254533,Permitted Site,Olea europaea 'Majestic Beauty' :: Majestic Beauty Fruitless Olive,154 Arleta Ave,,Sidewalk: Curb side : Cutout,Private,2018-02-23,3.0,3x3,,
 29819,Permitted Site,Magnolia grandiflora :: Southern Magnolia,1695X Evans Ave,17.0,Sidewalk: Curb side : Cutout,Purchasing Dept,2006-09-11,3.0,4x4,37.74391708243721,-122.39024991836901
 61215,DPW Maintained,Maytenus boaria :: Mayten,149 Elmira St,1.0,Sidewalk: Curb side : Cutout,Private,1983-12-17,10.0,,37.735490235469605,-122.40362828323
 255300,Planning Code 138.1 required,Tristaniopsis laurina :: Swamp Myrtle,1238 Sutter St,1.0,Sidewalk: Curb side : Cutout,Private,2018-05-07,3.0,3x3,37.7877789501949,-122.42079929553199
@@ -625,7 +618,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 37668,Permitted Site,Eriobotrya deflexa :: Bronze Loquat,3270 18th St,3.0,Sidewalk: Curb side : Cutout,Private,1998-06-29,3.0,3x3,37.7620601307471,-122.416546187971
 50336,Permitted Site,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',800 Howard St,13.0,Sidewalk: Curb side : Cutout,Private,2003-09-22,,,37.783257013527496,-122.40283841310101
 86317,DPW Maintained,Melaleuca quinquenervia :: Cajeput,1611 25th Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2006-12-12,3.0,3x3,37.757446719218294,-122.48321454739201
-36839,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,,5.0,Sidewalk: Curb side : Cutout,Private,1998-05-26,,,,
 101919,Section 143,Platanus x hispanica :: Sycamore: London Plane,1401X California St,1.0,Sidewalk: Curb side : Cutout,Private,2012-12-07,9.0,3x3,37.7908340376155,-122.417941633898
 44812,Permitted Site,Hakea laurina :: Sea Urchin Tree,2700x Kirkham St,1.0,Sidewalk: Curb side : Cutout,Private,2001-04-12,,,37.7594083467555,-122.489870843925
 44433,DPW Maintained,Pittosporum crassifolium :: Karo Tree,859 Prague St,6.0,Sidewalk: Curb side : Cutout,Private,2001-03-23,4.0,,37.710389296500296,-122.434330380639
@@ -701,7 +693,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 25528,DPW Maintained,Phoenix canariensis :: Canary Island Date Palm,2300X Market St,3.0,Median : Cutout,DPW,1993-04-01,36.0,10,37.7636580221412,-122.433789126424
 38151,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,302 Felton St,1.0,Sidewalk: Curb side : Cutout,Private,1998-07-15,8.0,,37.7292545558341,-122.40784189210301
 40542,Permitted Site,Rhaphiolepis Majestic Beauty :: Indian Hawthorn  'Majestic Beau',24194127 San Fernando Way,2.0,Sidewalk: Curb side : Cutout,Private,1999-06-23,,,37.732636788551105,-122.469496311654
-35285,Permitted Site,Olea europaea :: Olive Tree,,4.0,Sidewalk: Curb side : Cutout,Private,1998-02-17,,,,
 108977,Permitted Site,Magnolia grandiflora 'Samuel Sommer' :: Samuel Sommer Magnolia,2970 21st St,1.0,Sidewalk: Curb side : Cutout,Private,2015-01-20,3.0,3x3,37.7574655215329,-122.413949705223
 102250,Property Tree,Olea europaea :: Olive Tree,125X Powhattan Ave,3.0,Front Yard : Yard,Private,2013-01-07,,,37.7413332800665,-122.416288322592
 35713,Permitted Site,Prunus cerasifera :: Cherry Plum,125 06th St,3.0,Sidewalk: Curb side : Cutout,Private,1998-04-15,,,37.78068081192129,-122.40821654557101
@@ -889,7 +880,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 45084,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,2270 29th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2001-05-08,5.0,,37.745026979501205,-122.486500754457
 51090,Permitted Site,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',24 De Montfort Ave,1.0,Sidewalk: Curb side : Cutout,Private,2004-07-26,,,37.7237276599577,-122.458440324204
 43781,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,678 20th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2000-07-26,16.0,,37.7751238159272,-122.47892607701901
-35819,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,980 Houston St,4.0,Sidewalk: Curb side : Cutout,Private,1998-04-22,,,,
 61469,Permitted Site,Prunus cerasifera :: Cherry Plum,351 Church St,1.0,Sidewalk: Curb side : Cutout,Private,1984-06-26,12.0,,37.7653086036741,-122.42865096743799
 8233,DPW Maintained,Acer rubrum :: Red Maple,1500X Galvez Ave,12.0,Sidewalk: Curb side : Cutout,DPW,2008-01-17,4.0,3x3,37.739696749128896,-122.385840466933
 40833,Permitted Site,Pyrus calleryana :: Ornamental Pear,150 Spear St,7.0,Sidewalk: Curb side : Cutout,Private,1999-08-30,,,37.7918619982363,-122.393341229651
@@ -960,7 +950,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 37634,DPW Maintained,Prunus cerasifera :: Cherry Plum,791 18th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-06-26,6.0,,37.7732888747194,-122.47680860775101
 52973,Permitted Site,Magnolia grandiflora :: Southern Magnolia,238 Byxbee St,1.0,Sidewalk: Curb side : Cutout,Private,2006-08-03,,,37.7185845236626,-122.46975350981
 85577,DPW Maintained,Magnolia grandiflora 'Samuel Sommer' :: Samuel Sommer Magnolia,1370 Palou Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2007-03-21,3.0,3x3,37.731583677290004,-122.38656512948499
-259076,DPW Maintained,Tilia cordata :: Littleleaf Linden,1000 Visitacion Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2019-06-19,3.0,,,
 49000,Permitted Site,Magnolia grandiflora :: Southern Magnolia,436 Diamond St,1.0,Sidewalk: Curb side : Cutout,Private,2002-12-16,,,37.7553575743302,-122.436779349279
 64498,DPW Maintained,Prunus cerasifera :: Cherry Plum,1541 Grove St,1.0,Sidewalk: Curb side : Cutout,Private,1988-07-20,8.0,,37.7753483247485,-122.44209108663901
 31716,DPW Maintained,Prunus cerasifera :: Cherry Plum,1137 Shrader St,1.0,Sidewalk: Curb side : Cutout,Private,1995-06-19,10.0,,37.764162952473704,-122.45118072960399
@@ -970,7 +959,7 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 36961,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,40 05th Ave,2.0,Sidewalk: Curb side : Cutout,Private,1998-05-29,4.0,,37.7879863078616,-122.463630532758
 67418,DPW Maintained,Pittosporum undulatum :: Victorian Box,442 18th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1993-12-29,8.0,,37.7795546005664,-122.477104055572
 140453,Permitted Site,Pittosporum undulatum :: Victorian Box,1499 Eddy St,6.0,Sidewalk: Curb side : Cutout,Private,1992-05-06,6.0,Width 0ft,37.781435967726104,-122.431815971933
-16887,Private,Tristaniopsis laurina :: Swamp Myrtle,300X Oak St,8.0,Sidewalk: Curb side : Cutout,Private,2016-11-10,3.0,3X3,37.7748722137679,-122.42430913733
+16887,Private,Tristaniopsis laurina :: Swamp Myrtle,300X Oak St,8.0,Sidewalk: Curb side : Cutout,Private,2016-11-10,3.0,3x3,37.7748722137679,-122.42430913733
 114956,Permitted Site,Magnolia grandiflora 'Majestic Beauty' :: Majestic Beauty Magnolia,3470 20th St,1.0,Sidewalk: Curb side : Cutout,Private,2015-12-24,,,37.758725229911605,-122.418428846982
 59743,Permitted Site,Eriobotrya deflexa :: Bronze Loquat,4377 17th St,1.0,Sidewalk: Curb side : Cutout,Private,1985-12-07,,,37.7619915633709,-122.442240971868
 13857,DPW Maintained,Platanus x hispanica 'Yarwood' :: Yarwood Sycamore,991 Market St,2.0,Sidewalk: Curb side : Cutout,DPW,2007-02-10,6.0,4X4,37.782321318828394,-122.409981490315
@@ -1026,13 +1015,11 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 34632,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,1466 25th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1997-07-28,6.0,,37.760161231342295,-122.483260264182
 47462,DPW Maintained,Eriobotrya deflexa :: Bronze Loquat,1818 Baker St,2.0,Sidewalk: Curb side : Cutout,Private,2002-05-14,7.0,,37.788055445440996,-122.443738626559
 46420,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,530 Chestnut St,4.0,Sidewalk: Curb side : Cutout,Private,2002-03-11,,,37.803972827810995,-122.412091961384
-33090,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,,3.0,Sidewalk: Curb side : Cutout,Private,1996-11-05,,,,
 62541,Permitted Site,Acer palmatum :: Japanese Maple,683 14th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1986-01-17,,,37.775317168638,-122.472549473895
 33114,DPW Maintained,Rhaphiolepis Majestic Beauty :: Indian Hawthorn  'Majestic Beau',2664 Filbert St,1.0,Sidewalk: Curb side : Cutout,Private,1996-11-05,6.0,,37.7971169892123,-122.443309838783
 62964,DPW Maintained,Pittosporum undulatum :: Victorian Box,75 Glover St,1.0,Sidewalk: Curb side : Cutout,Private,1986-08-21,7.0,,37.7971035776345,-122.416468771935
 50612,Permitted Site,Olea europaea :: Olive Tree,231 Holly Park Cir,1.0,Sidewalk: Curb side : Cutout,Private,2003-12-08,,,37.7376824626662,-122.418731421871
 42931,Permitted Site,Prunus cerasifera :: Cherry Plum,535 Florida St,1.0,Sidewalk: Curb side : Cutout,Private,2000-07-05,,,37.7625249646976,-122.411075594262
-46152,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,,2.0,Sidewalk: Curb side : Cutout,Private,2001-12-27,,,,
 9046,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,5500 Geary Blvd,1.0,Sidewalk: Curb side : Cutout,Private,2001-06-28,6.0,3x3,37.7805208756342,-122.478489409928
 84843,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,1201 Sunnydale Ave,3.0,Sidewalk: Curb side : Cutout,Private,2007-04-16,,,37.7109581313437,-122.41306521032699
 31294,DPW Maintained,Prunus cerasifera :: Cherry Plum,2634 18th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1995-04-04,5.0,,37.738701081392705,-122.474236879142
@@ -1091,7 +1078,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 106552,Permitted Site,Prunus cerasifera 'Krauter vesuvius' :: Purple Leaf Plum Krauter Vesuvius,207 Los Palmos Dr,,Sidewalk: Curb side : Cutout,Private,2014-05-08,,3X3,37.7357195377121,-122.44935000292601
 37104,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,1215 48th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-06-01,7.0,3x3,37.7636856772509,-122.508377723134
 83358,Permitted Site,Lophostemon confertus :: Brisbane Box,1160 Stanyan St,1.0,Sidewalk: Curb side : Cutout,Private,2008-06-16,,3x3,37.76311184037971,-122.452196286828
-256190,Section 143,Olea europaea 'Fruitless' :: Fruitless Olive,3600 Buchanan St,2.0,Sidewalk: Curb side : Cutout,Private,2018-09-21,3.0,,,
 1236,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,3702X Alemany Blvd,1.0,Sidewalk: Curb side : Cutout,Private,2008-04-22,3.0,3X5,37.711869955605394,-122.465342418633
 94895,DPW Maintained,Ceratonia siliqua :: Carob,43 Flora St,4.0,Sidewalk: Curb side : Cutout,SFUSD,2010-11-23,3.0,3x3,37.732132475471104,-122.39381008289601
 48029,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,320 Wawona St,1.0,Sidewalk: Curb side : Cutout,Private,2002-07-05,,,37.738329808716294,-122.46998096184299
@@ -1121,7 +1107,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 37721,DPW Maintained,Lagunaria patersonii :: Primrose Tree,3001 Taraval St,4.0,Sidewalk: Curb side : Cutout,Private,2015-03-27,3.0,3x3,37.74196375089279,-122.498368494175
 38064,DPW Maintained,Ceanothus Sps :: California lilac,1916 Lyon St,1.0,Sidewalk: Curb side : Cutout,Private,1998-07-10,3.0,,37.7890342432733,-122.445647409716
 43891,DPW Maintained,Callistemon viminalis :: Weeping Bottlebrush,1233 Howard St,4.0,Sidewalk: Curb side : Cutout,Private,2000-08-03,5.0,,37.7758006806963,-122.41196462987499
-121137,Planning Code 138.1 required,Pittosporum undulatum :: Victorian Box,1388x Minna St,1.0,Sidewalk: Curb side : Cutout,Private,2016-09-08,3.0,3x3,,
 3561,DPW Maintained,Lophostemon confertus :: Brisbane Box,101 Cargo Way,7.0,Sidewalk: Curb side : Cutout,Private,1990-05-04,9.0,3X3,37.740400709225796,-122.377455601495
 58775,DPW Maintained,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',1151 Rhode Island St,1.0,Sidewalk: Curb side : Cutout,Private,1979-08-13,21.0,,37.7552706449278,-122.40156438678899
 77218,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,499X Hearst Ave,22.0,Sidewalk: Property side : Cutout,SFUSD,1999-05-15,3.0,6x50,37.730294369809705,-122.44876785322901
@@ -1238,7 +1223,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 63256,Permitted Site,Pyrus kawakamii :: Evergreen Pear,317 Lexington St,1.0,Sidewalk: Curb side : Cutout,Private,1987-01-22,,3x3,37.7582578891884,-122.420386294584
 94529,DPW Maintained,Platanus x hispanica :: Sycamore: London Plane,1545 Divisadero St,5.0,Sidewalk: Curb side : Cutout,Private,2010-09-01,3.0,,37.783896521543795,-122.439721010727
 18442,Permitted Site,Magnolia grandiflora :: Southern Magnolia,1001X Potrero Ave,17.0,Sidewalk: Curb side : Cutout,Health Dept,2016-01-20,40.0,3X3,37.75616405148111,-122.406529656376
-34133,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,,2.0,Sidewalk: Curb side : Cutout,Private,1997-07-05,,,,
 47606,DPW Maintained,Tristania conferta ::,965 Folsom St,2.0,Sidewalk: Curb side : Cutout,Private,2002-05-20,6.0,3x3,37.779145121392105,-122.404646435966
 37393,DPW Maintained,Rhaphiolepis Majestic Beauty :: Indian Hawthorn  'Majestic Beau',176 Pope St,1.0,Sidewalk: Curb side : Cutout,Private,1998-06-15,6.0,,37.7129511358524,-122.44078980891001
 62247,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,437 Capistrano Ave,1.0,Sidewalk: Curb side : Cutout,Private,1985-10-03,14.0,,37.724978338864204,-122.438945345277
@@ -1276,7 +1260,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 82874,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,100 Girard St,4.0,Sidewalk: Curb side : Cutout,Private,2009-07-08,,3x3,37.730917314013,-122.40615647032601
 64822,Permitted Site,Lophostemon confertus :: Brisbane Box,135 Scott St,1.0,Sidewalk: Curb side : Cutout,Private,1989-01-11,,,37.7708684109456,-122.43534016156201
 75924,DPW Maintained,Lophostemon confertus :: Brisbane Box,500 Hyde St,4.0,Sidewalk: Curb side : Cutout,Private,1982-05-29,17.0,,37.785675439112396,-122.416248450599
-260596,DPW Maintained,::,3116x Jennings St,2.0,Sidewalk: Curb side : Cutout,DPW,2019-08-24,3.0,,,
 45544,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,79 Riverton Dr,1.0,Sidewalk: Curb side : Cutout,Private,2001-07-24,3.0,,37.732598422284205,-122.48724975796301
 64141,Permitted Site,Lophostemon confertus :: Brisbane Box,450 30th St,1.0,Sidewalk: Curb side : Cutout,Private,1993-01-04,,,37.7419631631413,-122.42992323768401
 60133,Permitted Site,Crataegus laevigata :: English Hawthorn,214 Roanoke St,1.0,Sidewalk: Curb side : Cutout,Private,2012-06-29,,,37.7354269125656,-122.43022550454201
@@ -1333,7 +1316,7 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 110783,DPW Maintained,Acacia stenophylla :: Shoestring Acacia,1000X GUERRERO ST,12.0,Median : Cutout,DPW,2015-05-26,3.0,3x3,37.7549773975701,-122.423362541701
 45397,Permitted Site,Prunus serrulata :: Ornamental Cherry,191 Corona St,2.0,Sidewalk: Curb side : Cutout,Private,2001-07-11,,,37.725218936298496,-122.46636405150299
 114800,Permitted Site,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,1587 18th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2015-12-10,,,37.758298924152705,-122.475824523864
-80514,Private,Pyrus spp :: Pear Tree,1769X Armstrong Ave,9.0,Sidewalk: Curb side : Cutout,Private,2002-09-07,4.0,,37.7270177061512,-122.393652321999
+80514,Private,Pyrus spp :: Pear Tree,1769X Armstrong Ave,9.0,Sidewalk: Curb side : Cutout,Private,2002-09-07,4.0,3x3,37.7270177061512,-122.393652321999
 109570,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,400 Brazil Ave,2.0,Sidewalk: Curb side : Cutout,Private,2015-02-24,3.0,3x3,37.7230202188994,-122.431458941588
 65864,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,33 Toledo Way,1.0,Sidewalk: Curb side : Cutout,Private,1990-05-09,7.0,,37.801425447774704,-122.438092640468
 27818,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,350X The Embarcadero,17.0,Sidewalk: Curb side : Cutout,Port,1994-07-15,12.0,4x4,37.7980602547356,-122.39635950070699
@@ -1359,7 +1342,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 33918,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,49 Zoe St,6.0,Sidewalk: Curb side : Cutout,Private,1997-03-18,,,37.779947085492,-122.395992219822
 102450,Permitted Site,Prunus cerasifera 'Atropurpurea' :: Purple-Leaf Plum,2205 Pacific Ave,3.0,Sidewalk: Property side : Cutout,Private,2014-02-28,,,37.7935934914571,-122.431820013768
 65030,DPW Maintained,Pittosporum undulatum :: Victorian Box,395 20th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1989-05-04,12.0,,37.7807390479923,-122.479499861546
-46730,Permitted Site,Quercus agrifolia :: Coast Live Oak,,4.0,Sidewalk: Curb side : Cutout,Private,2002-04-24,,,,
 59021,Permitted Site,Ligustrum lucidum :: Glossy Privet,116 Liberty St,1.0,Sidewalk: Curb side : Cutout,Private,1988-10-07,,,37.75761128554,-122.423869755917
 45042,DPW Maintained,Prunus serrulata :: Ornamental Cherry,1874 25th Ave,2.0,Sidewalk: Curb side : Cutout,Private,2001-04-30,6.0,,37.7526159729384,-122.48272444408998
 69021,Permitted Site,Rhamnus alaternus :: Italian Buckthorn,2095 47th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1994-01-05,,,37.747443456100704,-122.506185646516
@@ -1393,8 +1375,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 25238,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1345 Ocean Ave,4.0,Sidewalk: Curb side : Cutout,Private,1996-04-26,8.0,3X3,37.723925694813104,-122.456819886441
 36012,Permitted Site,Prunus serrulata :: Ornamental Cherry,97 Winfield St,1.0,Sidewalk: Curb side : Cutout,Private,1998-04-27,,,37.743517008192796,-122.41783033575001
 42151,DPW Maintained,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',554 20th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2000-06-21,7.0,,37.7774069754215,-122.47908889577499
-35439,Permitted Site,Lophostemon confertus :: Brisbane Box,757 Peninsula Ave,4.0,Sidewalk: Curb side : Cutout,Private,1998-03-16,,,,
-46193,Permitted Site,Magnolia grandiflora :: Southern Magnolia,,4.0,Sidewalk: Curb side : Cutout,Private,2001-12-31,,,,
 84066,DPW Maintained,Lyonothamnus floribundus subsp. asplenifolius :: Santa Cruz Ironwood,1958 42nd Ave,1.0,Sidewalk: Curb side : Cutout,Private,2008-06-30,3.0,3x3,37.750179025863105,-122.500800774645
 98581,DPW Maintained,Eriobotrya deflexa :: Bronze Loquat,1631 Pierce St,1.0,Sidewalk: Curb side : Cutout,Private,2012-02-29,1.0,3x3,37.7853108490024,-122.436576438141
 30789,DPW Maintained,Lophostemon confertus :: Brisbane Box,555 Bryant St,2.0,Sidewalk: Curb side : Cutout,Private,1995-01-31,16.0,,37.7801493011857,-122.39715453954399
@@ -1427,7 +1407,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 229627,Planning Code 138.1 required,Magnolia grandiflora :: Southern Magnolia,3662 Folsom St,1.0,Sidewalk: Curb side : Cutout,Private,2016-12-28,3.0,3x3,37.7406815009641,-122.41333091228701
 27406,DPW Maintained,Olea europaea :: Olive Tree,1292 Haight St,1.0,Sidewalk: Curb side : Cutout,DPW,2002-12-18,4.0,3X3,37.7705658482285,-122.443095694592
 23111,DPW Maintained,Lophostemon confertus :: Brisbane Box,1449 Valencia St,1.0,Sidewalk: Curb side : Cutout,DPW,1993-08-11,20.0,3X3,37.7497322042836,-122.42032403694598
-34070,Permitted Site,Geijera parviflora :: Australian Willow,955 Kennedy Ave,4.0,Sidewalk: Curb side : Cutout,Private,1997-07-05,,,,
 67995,Permitted Site,Magnolia champaca :: Champa,242 Minerva St,1.0,Sidewalk: Curb side : Cutout,Private,1993-04-20,,,37.7158196896579,-122.460619224226
 42815,Permitted Site,Prunus serrulata :: Ornamental Cherry,100 Diamond St,2.0,Sidewalk: Curb side : Cutout,Private,2000-06-29,,,37.760704701255,-122.437275750105
 63477,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,2064 Golden Gate Ave,1.0,Sidewalk: Curb side : Cutout,Private,1987-02-28,9.0,,37.7780387769008,-122.444537246991
@@ -1500,7 +1479,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 59294,Permitted Site,Cordyline australis :: Dracena Palm,357 Frederick St,1.0,Sidewalk: Curb side : Cutout,Private,1980-08-20,,,37.7667758890994,-122.449252327047
 52101,Permitted Site,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',617 Rockdale Dr,1.0,Sidewalk: Curb side : Cutout,Private,2005-10-26,,,37.740576328733894,-122.45017675612
 46790,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,579 Madrid St,1.0,Sidewalk: Curb side : Cutout,Private,2002-04-25,8.0,,37.7201446600155,-122.43384013501499
-118355,DPW Maintained,Acacia stenophylla :: Shoestring Acacia,100X Guerrero St,10.0,Median : Cutout,DPW,2016-07-15,3.0,,,
 37840,DPW Maintained,Prunus serrulata :: Ornamental Cherry,451 Athens St,4.0,Sidewalk: Curb side : Cutout,SFUSD,2007-07-09,3.0,4x6,37.7203135455184,-122.42934922289801
 58122,DPW Maintained,Ficus retusa nitida :: Banyan Fig,24 Orben Pl,1.0,Sidewalk: Curb side : Cutout,Private,1978-02-03,13.0,,37.7884091881086,-122.43285658098499
 108821,Section 143,Acer buergeranum :: Trident Maple,101x FREMONT ST,1.0,Sidewalk: Curb side : Cutout,Private,2015-01-06,3.0,5x5,37.7904804500674,-122.396640813258
@@ -1674,7 +1652,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 47832,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,887 46th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2007-10-15,7.0,3x3,37.771849202629205,-122.50678802713499
 29587,DPW Maintained,Corymbia ficifolia :: Red Flowering Gum,610X Junipero Serra Blvd,1.0,Median : Cutout,DPW,2007-04-01,3.0,3X3,37.7277003234109,-122.472203119704
 93828,Permitted Site,Pyrus kawakamii :: Evergreen Pear,178 Bluxome St,17.0,Sidewalk: Curb side : Cutout,Private,2010-04-05,,3x3,37.7744697656056,-122.40000821426001
-260220,DPW Maintained,Lagunaria patersonii :: Primrose Tree,2201x 22nd Ave,12.0,Sidewalk: Curb side : Cutout,DPW,2018-10-20,3.0,,,
 13372,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,920 Mansell St,1.0,Sidewalk: Curb side : Cutout,DPW,1992-06-10,6.0,3X10,37.719257895213794,-122.410444940198
 45775,Permitted Site,Lophostemon confertus :: Brisbane Box,610 El Camino Del Mar,3.0,Sidewalk: Curb side : Cutout,Private,2001-11-01,,,37.7869266168429,-122.489890152931
 218581,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,3676 19th Ave,1.0,Sidewalk: Curb side : Yard,DPW,2015-11-07,1.0,Width 3ft,37.7229643467231,-122.474901096827
@@ -1975,7 +1952,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 60926,DPW Maintained,Trachycarpus fortunei :: Windmill Palm,2000 Irving St,1.0,Sidewalk: Curb side : Cutout,Private,1983-06-13,13.0,3x3,37.7635420716385,-122.479486064031
 72364,DPW Maintained,Arbutus unedo :: Strawberry Tree,617 15th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1996-03-09,8.0,,37.7763949395058,-122.47374490167499
 4079,DPW Maintained,Lyonothamnus floribundus subsp. asplenifolius :: Santa Cruz Ironwood,3200X Cesar Chavez St,3.0,Sidewalk: Curb side : Cutout,DPW,1998-01-06,3.0,3X3,37.7483589476023,-122.414036243399
-35174,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,,8.0,Sidewalk: Curb side : Cutout,Private,1998-02-10,,,,
 70470,Undocumented,Ligustrum lucidum :: Glossy Privet,450X Banks St,8.0,Sidewalk: Curb side : Cutout,SFUSD,1994-06-18,3.0,3x4,37.73712182063289,-122.413131433288
 8288,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1601 Galvez Ave,2.0,Sidewalk: Curb side : Cutout,DPW,2006-03-28,3.0,3x3,37.7407077782435,-122.387976751238
 59602,DPW Maintained,Rhaphiolepis Majestic Beauty :: Indian Hawthorn  'Majestic Beau',1108 Tennessee St,1.0,Sidewalk: Curb side : Cutout,Private,1981-02-26,3.0,,37.7576215734969,-122.38935719708599
@@ -1990,7 +1966,7 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 15701,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,4249 Mission St,1.0,Sidewalk: Curb side : Cutout,Private,1995-05-04,6.0,3x3,37.729371212405795,-122.430317880214
 66463,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,51 Wood St,1.0,Sidewalk: Curb side : Cutout,Private,1991-01-09,10.0,,37.783078298564206,-122.449291166562
 31885,Permitted Site,Photinia fraseri :: Photinia Tree,142 10th St,3.0,Sidewalk: Curb side : Cutout,Private,1995-06-26,,,37.7746960787711,-122.415312978758
-80593,Private,Alnus rhombifolia :: White Alder,1780 Bancroft Ave,5.0,Sidewalk: Curb side : Cutout,Private,2002-09-07,7.0,,37.7270177061512,-122.393652321999
+80593,Private,Alnus rhombifolia :: White Alder,1780 Bancroft Ave,5.0,Sidewalk: Curb side : Cutout,Private,2002-09-07,7.0,4x3,37.7270177061512,-122.393652321999
 83016,Permitted Site,Magnolia grandiflora 'Russet' :: Russet Magnolia,4304 18th St,2.0,Sidewalk: Curb side : Cutout,Private,2009-07-15,,3x3,37.7608247901347,-122.43727101932801
 32511,DPW Maintained,Crataegus phaenopyrum :: Washington Hawthorn,730 Moultrie St,1.0,Sidewalk: Curb side : Cutout,Private,1996-10-15,6.0,2x3,37.735597663102396,-122.416154707082
 97267,DPW Maintained,Ulmus parvifolia :: Chinese Elm,2050X Baker St,1.0,Sidewalk: Curb side : Cutout,Private,2012-10-24,2.0,3x3,37.7901489853223,-122.44417907581301
@@ -2176,11 +2152,9 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 52446,DPW Maintained,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',759 10th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2005-12-22,5.0,,37.7740535957707,-122.468156185872
 69788,DPW Maintained,Lagunaria patersonii :: Primrose Tree,1526 45th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2001-10-27,1.0,,37.758035976388896,-122.50460626225299
 47999,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,1901 16th Ave,3.0,Sidewalk: Curb side : Cutout,Private,2002-07-05,,,37.752459596695,-122.47321895744
-35694,Permitted Site,Liriodendron tulipifera :: Tulip Tree,,4.0,Sidewalk: Curb side : Cutout,Private,1998-04-10,,,,
 39464,DPW Maintained,Lophostemon confertus :: Brisbane Box,300 Clay St,1.0,Sidewalk: Curb side : Cutout,Private,1998-12-28,9.0,,37.7952918600786,-122.398984224639
 42396,Permitted Site,Callistemon citrinus :: Lemon Bottlebrush,600 Gennessee St,2.0,Sidewalk: Curb side : Cutout,Private,2000-06-23,,,37.7330812596511,-122.451071309951
 37397,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,2666 Bush St,1.0,Sidewalk: Curb side : Cutout,Private,1998-06-15,8.0,,37.7861224682273,-122.441130277344
-52188,Permitted Site,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',76 Camona Av,1.0,Sidewalk: Curb side : Cutout,Private,2005-11-01,,,,
 41319,Permitted Site,Pyrus calleryana :: Ornamental Pear,2501 Harrison St,5.0,Sidewalk: Curb side : Cutout,Private,2000-02-24,,,37.757386915423005,-122.41225384799499
 90179,DPW Maintained,Eriobotrya deflexa :: Bronze Loquat,1612 Balboa St,1.0,Sidewalk: Curb side : Cutout,DPW,2008-02-26,3.0,3x3,37.776761915259705,-122.476180612609
 43428,Permitted Site,Quercus agrifolia :: Coast Live Oak,310 Seneca Ave,4.0,Sidewalk: Curb side : Cutout,Private,2000-07-18,,,37.7212357299628,-122.444654572182
@@ -2238,7 +2212,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 139582,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1920 TURK ST,5.0,Sidewalk: Curb side : Cutout,DPW,2008-11-20,2.0,Width 0ft,37.779425983334,-122.441559169487
 67599,DPW Maintained,Magnolia grandiflora 'Saint Mary' :: Saint Mary Magnolia,380 Pennsylvania Ave,1.0,Sidewalk: Curb side : Cutout,Private,1992-10-06,5.0,,37.7617373703071,-122.393631049748
 39668,Permitted Site,Rhaphiolepis Majestic Beauty :: Indian Hawthorn  'Majestic Beau',620 Lakeview Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-12-29,,,37.718304355564605,-122.45736725090099
-43481,Permitted Site,Melaleuca linariifolia :: Flaxleaf Paperbark,,9.0,Sidewalk: Curb side : Cutout,Private,2000-07-19,,,,
 91199,DPW Maintained,Hymenosporum flavum :: Sweet Shade,460 Haight St,1.0,Sidewalk: Curb side : Cutout,DPW,2009-05-02,3.0,3x3,37.7722950077597,-122.429826761418
 108048,Permitted Site,Magnolia grandiflora :: Southern Magnolia,535 Mission St,1.0,Sidewalk: Curb side : Cutout,Private,2014-11-19,3.0,3x3,37.7889890532579,-122.39829295327401
 83816,DPW Maintained,Lophostemon confertus :: Brisbane Box,1183 Jackson St,3.0,Sidewalk: Curb side : Cutout,Private,2009-06-30,5.0,3x3,37.795001942039,-122.414423013911
@@ -2315,7 +2288,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 258137,Planning Code 138.1 required,Ginkgo biloba :: Maidenhair Tree,460 Noe St,1.0,Sidewalk: Curb side : Cutout,Private,2019-04-09,3.0,3x3,37.761635780133794,-122.432922786357
 62917,Permitted Site,Prunus serrulata :: Ornamental Cherry,549 Moultrie St,1.0,Sidewalk: Curb side : Cutout,Private,1986-08-05,,,37.7378381457319,-122.415807038863
 71359,DPW Maintained,Eriobotrya japonica :: Edible Loquat,1620 La Salle Ave,2.0,Sidewalk: Curb side : Cutout,Private,1988-05-21,7.0,,37.7367896101585,-122.389041914574
-122664,DPW Maintained,Lophostemon confertus :: Brisbane Box,401x Laguna St,2.0,Sidewalk: Curb side : Cutout,Private,2016-11-10,3.0,3X3,,
 18379,DPW Maintained,Magnolia grandiflora 'Russet' :: Russet Magnolia,744 Potrero Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2005-03-02,3.0,3X4,37.7600118348065,-122.40715251859301
 50140,Permitted Site,Lophostemon confertus :: Brisbane Box,543 Howard St,5.0,Sidewalk: Curb side : Cutout,Private,2003-08-07,,3x3,37.787767213290294,-122.39687954596901
 27865,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,900X The Embarcadero,6.0,Median : Cutout,Port,2000-12-20,24.0,,37.8028845715493,-122.400646489089
@@ -2456,7 +2428,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 53874,DPW Maintained,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',901 California St,1.0,Sidewalk: Curb side : Cutout,Private,1972-02-22,13.0,,37.7918654322955,-122.409819938349
 14458,DPW Maintained,Lophostemon confertus :: Brisbane Box,150X Masonic Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2008-01-15,3.0,3X3,37.780621166161204,-122.447295828362
 53159,DPW Maintained,Agonis flexuosa :: Peppermint Willow,1747@ 3RD ST Quesada Ave,2.0,Sidewalk: Curb side : Cutout,Private,2006-11-02,13.0,,37.733709657875295,-122.392299359741
-260593,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,3002x Jennings St,3.0,Sidewalk: Curb side : Cutout,DPW,2019-08-24,3.0,,,
 53281,DPW Maintained,Platanus x hispanica :: Sycamore: London Plane,435 Brannan St,1.0,Sidewalk: Curb side : Cutout,Private,1969-08-05,7.0,,37.7792549344058,-122.39520981318998
 13647,DPW Maintained,Platanus x hispanica :: Sycamore: London Plane,595 Market St,1.0,Sidewalk: Curb side : Cutout,DPW,2016-04-26,3.0,4x4,37.7894903596391,-122.40094410728202
 89467,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,3724 Anza St,1.0,Sidewalk: Curb side : Cutout,DPW,2008-03-21,3.0,3x3,37.778074965706104,-122.48839235460699
@@ -2566,7 +2537,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 91613,DPW Maintained,Pyrus calleryana 'Aristocrat' :: Aristocrat Callery Pear,1116 South Van Ness Ave,,Sidewalk: Curb side : Cutout,DPW,2007-03-01,10.0,3x3,37.7552704588724,-122.416607523387
 86622,DPW Maintained,Acer rubrum 'October Glory' :: Red October Glory Maple,930 Bryant St,2.0,Sidewalk: Curb side : Cutout,DPW,2007-04-13,3.0,3x3,37.7738554803892,-122.40547033580799
 39899,DPW Maintained,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',1909 Broderick St,1.0,Sidewalk: Curb side : Cutout,Private,1999-01-25,10.0,,37.7882543979709,-122.442266279871
-46295,Permitted Site,Robinia x ambigua :: Locust,,7.0,Sidewalk: Curb side : Cutout,Private,2002-01-31,,,,
 260929,DPW Maintained,Jacaranda mimosifolia :: Jacaranda,925 Cole St,1.0,Sidewalk: Curb side : Cutout,DPW,2019-09-21,3.0,,37.76554840622221,-122.449977421621
 85958,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,1300 26th Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2006-12-21,3.0,3x3,37.7631785479619,-122.48455365718
 62979,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,1133 Vallejo St,1.0,Sidewalk: Curb side : Cutout,Private,1992-10-14,10.0,,37.797614940232,-122.41599883297701
@@ -2592,7 +2562,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 61143,DPW Maintained,Pittosporum undulatum :: Victorian Box,2169 Grove St,1.0,Sidewalk: Curb side : Cutout,Private,1983-10-01,14.0,6x6,37.7740466457824,-122.45227035945601
 43467,Permitted Site,Quercus douglasii :: Blue Oak,1000 Cayuga Ave,7.0,Sidewalk: Curb side : Cutout,Private,2000-07-18,,,37.722084128815,-122.43985552561399
 114498,DPW Maintained,Olea europaea :: Olive Tree,506 Brannan St,4.0,Sidewalk: Curb side : Cutout,Private,2016-01-27,3.0,3x3,37.778189468908,-122.39687832179199
-259743,DPW Maintained,Afrocarpus gracilior :: Fern Pine,1300x Quesada Ave,1.0,Side Yard : Cutout,DPW,2018-10-13,3.0,,,
 61435,Permitted Site,Eucalyptus Spp :: Eucalyptus,327 Caselli Ave,1.0,Sidewalk: Curb side : Cutout,Private,2003-11-15,26.0,,37.7589393153031,-122.44387490382499
 65065,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,329 Point Lobos Ave,1.0,Sidewalk: Curb side : Cutout,Private,2005-03-05,,,37.7798502030118,-122.50655256681002
 86673,DPW Maintained,Acer rubrum :: Red Maple,1157 Bryant St,3.0,Sidewalk: Curb side : Cutout,Private,2007-04-09,3.0,3x3,37.770541875235,-122.409321615924
@@ -2605,7 +2574,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 31901,DPW Maintained,Olea europaea :: Olive Tree,973 Minna St,1.0,Sidewalk: Curb side : Cutout,Private,1995-06-26,6.0,,37.7741754160005,-122.416165751655
 14225,DPW Maintained,Platanus x hispanica :: Sycamore: London Plane,2000X Market St,1.0,Sidewalk: Curb side : Cutout,DPW,1992-03-30,6.0,4X4,37.76941400660721,-122.426739091304
 36352,Permitted Site,Prunus serrulata :: Ornamental Cherry,115 Eastwood Dr,2.0,Sidewalk: Curb side : Cutout,Private,1998-05-18,,,37.7279339670328,-122.457451880091
-259347,DPW Maintained,Lagunaria patersonii :: Primrose Tree,450x Burrows St,1.0,Sidewalk: Curb side : Cutout,DPW,2019-04-27,3.0,,,
 100036,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,1199@Washington Mason St,4.0,Sidewalk: Curb side : Cutout,Rec/Park,2012-08-02,,,37.794506209154704,-122.411412418869
 38671,Permitted Site,Pyrus calleryana :: Ornamental Pear,655 Central Ave,3.0,Sidewalk: Curb side : Cutout,Private,1998-10-01,,,37.7755847021626,-122.44478418189699
 49904,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,1686 15th St,1.0,Sidewalk: Curb side : Cutout,Private,2003-07-02,,,37.7666291551697,-122.42174620348499
@@ -2658,7 +2626,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 45709,Permitted Site,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',196 Graystone Ter,1.0,Sidewalk: Curb side : Cutout,Private,2015-11-30,,,37.757130224218294,-122.44533981581499
 30751,Permitted Site,Pyrus calleryana :: Ornamental Pear,5075 03rd St,3.0,Sidewalk: Curb side : Cutout,Private,2013-03-08,,3x3,37.7325985731591,-122.391303034813
 242086,Undocumented,Eriobotrya deflexa :: Bronze Loquat,4185 25th St,12.0,Sidewalk: Curb side : Cutout,DPW for City Agency,2016-02-16,2.0,Width 3ft,37.7497052929799,-122.432617857444
-260667,Permitted Site,Aesculus californica :: California Buckeye,2X Serrano Dr,5.0,Sidewalk: Curb side : Cutout,Private,2019-10-03,3.0,3x6,,
 49351,DPW Maintained,Pittosporum undulatum :: Victorian Box,1875@ EVANS Marin St,4.0,Sidewalk: Curb side : Cutout,Private,2003-03-07,6.0,,37.7483802534545,-122.394652415188
 40872,Permitted Site,Pittosporum undulatum :: Victorian Box,3456 Washington St,8.0,Sidewalk: Curb side : Cutout,Private,1999-09-22,,,37.7896785829725,-122.449958017829
 62411,DPW Maintained,Lophostemon confertus :: Brisbane Box,651 14th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1997-06-07,8.0,,37.775855802898796,-122.472569989741
@@ -2748,7 +2715,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 117865,DPW Maintained,Olea europaea 'Wilsonii' :: Wilson Olive Semi-fruitless,834 40th Ave,2.0,Sidewalk: Curb side : Cutout,Private,2018-03-29,3.0,Width 4ft,37.7730291665941,-122.500260851226
 240430,DPW Maintained,Rhaphiolepis Majestic Beauty :: Indian Hawthorn  'Majestic Beau',2637 24th St,1.0,Sidewalk: Curb side : Cutout,Private,2017-04-20,3.0,Width 3ft,37.752960245237105,-122.406004908126
 32329,DPW Maintained,Eriobotrya japonica :: Edible Loquat,1884 08th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1996-10-02,5.0,,37.7532085147622,-122.46440551389601
-87020,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,10 Osceola Dr,2.0,Sidewalk: Property side : Cutout,Private,2007-12-05,,,,
 115243,DPW Maintained,Cordyline australis :: Dracena Palm,625 47th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2016-01-20,,,37.776605861396796,-122.50826381996201
 136907,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,352 Vallejo St,1.0,Sidewalk: Curb side : Cutout,Private,2017-01-06,3.0,Width 3ft,37.7993377175325,-122.40329876353901
 34404,Permitted Site,Dodonaea viscosa :: Hop Bush,171 Moffitt St,1.0,Sidewalk: Curb side : Cutout,Private,1997-07-15,,,37.7379843589135,-122.433894379886
@@ -2788,7 +2754,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 59612,DPW Maintained,Liquidambar styraciflua :: American Sweet Gum,1049 Tennessee St,1.0,Sidewalk: Curb side : Cutout,Private,2014-03-19,13.0,,37.758676797525,-122.38923272642
 91987,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,1327 09th Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2009-02-23,3.0,3x3,37.7635137289504,-122.466343363346
 26890,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1593X Hudson Ave,1.0,Sidewalk: Curb side : Cutout,DPW,1999-03-03,6.0,3X3,37.7399002068417,-122.38817883340799
-34463,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,1521 Ralston Ave,2.0,Sidewalk: Curb side : Cutout,Private,1997-07-15,,,,
 66376,Permitted Site,Lophostemon confertus :: Brisbane Box,615 Fillmore St,1.0,Sidewalk: Curb side : Cutout,Private,1995-06-24,,,37.7750446108152,-122.43113110826401
 131988,DPW Maintained,Olea europaea :: Olive Tree,2445 Hyde St,6.0,Sidewalk: Curb side : Cutout,Private,2020-01-15,3.0,Width 3ft,37.8035331861796,-122.420015923817
 33513,Permitted Site,Magnolia grandiflora :: Southern Magnolia,283 Coleridge St,1.0,Sidewalk: Curb side : Cutout,Private,1996-11-25,,,37.7419049842036,-122.42077767229901
@@ -2887,12 +2852,10 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 40935,DPW Maintained,Lophostemon confertus :: Brisbane Box,2600 18th St,2.0,Sidewalk: Curb side : Cutout,Private,1999-09-27,11.0,,37.7619156833713,-122.40846660886801
 39594,DPW Maintained,Gleditsia triacanthos 'Sunburst' :: Sunburst Honey Locust,343 Vermont St,1.0,Sidewalk: Curb side : Cutout,Private,1998-12-29,3.0,,37.7652540010087,-122.404459598545
 52409,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,54@ LAKE 06th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2005-12-19,8.0,,37.7875602210347,-122.464674235864
-50014,Permitted Site,Leptospermum scoparium  'Helene Strybing' :: Helene Strybing New Zealand Tea Tree,581@ 20TH ST Peninsula Ave,1.0,Sidewalk: Curb side : Cutout,Private,2003-07-25,,,,
 39340,Permitted Site,Rhaphiolepis Majestic Beauty :: Indian Hawthorn  'Majestic Beau',319 Capp St,1.0,Sidewalk: Curb side : Cutout,Private,1998-12-21,,,37.7615826138052,-122.4181505883
 93267,DPW Maintained,Magnolia grandiflora 'Samuel Sommer' :: Samuel Sommer Magnolia,1550 Church St,1.0,Sidewalk: Curb side : Cutout,DPW,2008-12-02,3.0,3x3,37.746087610537295,-122.426937693393
 68219,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,263 16th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1993-09-27,4.0,,37.7831518664143,-122.475366281729
 94209,Permitted Site,Liquidambar styraciflua :: American Sweet Gum,465 Missouri St,4.0,Sidewalk: Curb side : Cutout,Private,2010-06-22,,3x3,37.760521277448504,-122.395843745126
-35204,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,,18.0,Sidewalk: Curb side : Cutout,Private,1998-02-10,,,,
 28470,Permitted Site,Washingtonia robusta :: Mexican Fan Palm,2295 Ocean Ave,1.0,Sidewalk: Curb side : Cutout,Private,2003-04-01,12.0,3X3,37.729002968377294,-122.46821824463301
 62142,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,523 Campbell Ave,1.0,Sidewalk: Curb side : Cutout,Private,1985-09-06,12.0,,37.7153340011521,-122.406711317467
 41107,DPW Maintained,Pittosporum undulatum :: Victorian Box,38 Clayton St,1.0,Sidewalk: Curb side : Cutout,Private,1999-11-10,6.0,,37.774890712307,-122.449528938741
@@ -2929,7 +2892,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 40725,Permitted Site,Pyrus calleryana :: Ornamental Pear,224 Nevada St,1.0,Sidewalk: Curb side : Cutout,Private,1999-08-12,,,37.7394142523581,-122.411483340406
 29344,DPW Maintained,Lophostemon confertus :: Brisbane Box,1500X Portola Dr,10.0,Median : Cutout,DPW,2006-01-16,3.0,3X3,37.7366787380665,-122.469329833584
 101128,DPW Maintained,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,295X 16th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2012-10-01,1.0,3x3,37.782692139400204,-122.47533991256701
-260520,DPW Maintained,Leucodendron argenteum :: Silver Tree,3519x Kirkham St,2.0,Sidewalk: Curb side : Cutout,DPW,2019-07-27,3.0,,,
 43248,Permitted Site,Prunus serrulata :: Ornamental Cherry,192 Hamilton St,1.0,Sidewalk: Curb side : Cutout,Private,2000-07-12,,,37.72857041385571,-122.410647941299
 55947,DPW Maintained,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',2209 Scott St,1.0,Sidewalk: Curb side : Cutout,Private,1973-05-03,18.0,,37.7905052265713,-122.439312168843
 116471,Section 143,Olea europaea 'Fruitless' :: Fruitless Olive,882 Carolina St,,Sidewalk: Curb side : Cutout,Private,2016-04-04,3.0,3x3,37.757480004392,-122.40011862143601
@@ -3059,7 +3021,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 7949,DPW Maintained,Pittosporum undulatum :: Victorian Box,1701 Franklin St,3.0,Sidewalk: Curb side : Cutout,DPW,2014-06-01,3.0,3X3,37.7903230311257,-122.424078228932
 253537,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1000 Cayuga Ave,5.0,Back Yard : Yard,DPW,2017-10-05,3.0,3x3,37.7220768117153,-122.43983693715201
 114973,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,125 Hazelwood Ave,1.0,Sidewalk: Curb side : Cutout,Private,2015-12-28,,,37.7307171398869,-122.454534722301
-31896,Permitted Site,Rhaphiolepis Majestic Beauty :: Indian Hawthorn  'Majestic Beau',1525 Houston St,1.0,Sidewalk: Curb side : Cutout,Private,1995-06-26,,,,
 24495,DPW Maintained,Tristania conferta ::,647 Fell St,1.0,Sidewalk: Curb side : Cutout,DPW,1995-06-24,12.0,3X3,37.775143264612005,-122.42857502507799
 30815,Permitted Site,Pittosporum undulatum :: Victorian Box,146 Joost Ave,1.0,Sidewalk: Curb side : Cutout,Private,1995-02-06,,,37.7324443996412,-122.438539587343
 160322,DPW Maintained,Zelkova serrata :: Sawleaf Zelkova,510X Italy Ave,3.0,Sidewalk: Curb side : Cutout,Private,2017-10-18,3.0,Width 0ft,37.716379815556294,-122.435263447059
@@ -3147,7 +3108,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 57903,DPW Maintained,Olea europaea :: Olive Tree,1366 Hayes St,1.0,Sidewalk: Curb side : Cutout,Private,1977-06-09,8.0,6x9,37.774923236606604,-122.438922273425
 63013,Permitted Site,Rhamnus alaternus :: Italian Buckthorn,51 Wool St,1.0,Sidewalk: Curb side : Cutout,Private,2011-04-05,2.0,3x3,37.7410501993506,-122.416888678035
 40717,Permitted Site,Ginkgo biloba :: Maidenhair Tree,360 Banks St,1.0,Sidewalk: Curb side : Cutout,Private,1999-08-12,,,37.7386912826447,-122.41280058004801
-46720,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,,2.0,Sidewalk: Curb side : Cutout,Private,2002-04-24,,,,
 30008,DPW Maintained,Cordyline australis :: Dracena Palm,750X San Jose Ave,4.0,Median : Cutout,DPW,2007-03-24,3.0,3x3,37.743071142629795,-122.422985832334
 90219,DPW Maintained,Pittosporum undulatum :: Victorian Box,2500X Balboa St,3.0,Sidewalk: Curb side : Cutout,DPW,2008-04-21,3.0,3x3,37.7763354591186,-122.48586358362101
 11386,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,1435 Innes Ave,1.0,Sidewalk: Curb side : Cutout,DPW,1994-11-16,6.0,3X4,37.737592445724395,-122.385814348454
@@ -3177,7 +3137,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 9374,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,300 Gold Mine Dr,1.0,Sidewalk: Curb side : Cutout,Private,1994-11-03,30.0,2X2,37.74054275803321,-122.438749114996
 44440,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,131 Seville St,1.0,Sidewalk: Curb side : Cutout,Private,2001-03-23,11.0,,37.7114007774922,-122.43632076831001
 109936,Section 143,Lophostemon confertus :: Brisbane Box,260 05th St,5.0,Sidewalk: Curb side : Cutout,Private,2015-03-12,3.0,3x3,37.780460426865396,-122.404506314811
-38232,Permitted Site,Geijera parviflora :: Australian Willow,0 16th St,1.0,Sidewalk: Curb side : Cutout,Private,1998-07-21,,,,
 6635,DPW Maintained,Acacia melanoxylon :: Blackwood Acacia,1499 Evans Ave,3.0,Sidewalk: Curb side : Cutout,DPW,2016-01-02,3.0,3X3,37.741666106596796,-122.38634290341801
 35503,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,3451 22nd St,1.0,Sidewalk: Curb side : Cutout,Private,1998-03-23,,,37.75503360932,-122.424299225131
 86298,DPW Maintained,Melaleuca quinquenervia :: Cajeput,1419 25th Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2006-12-12,3.0,3x3,37.7610355026995,-122.48346563960199
@@ -3213,7 +3172,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 69303,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,813 Lyon St,1.0,Sidewalk: Curb side : Cutout,Private,2014-01-08,6.0,,37.7786018352438,-122.443681177953
 88314,Permitted Site,Melaleuca linariifolia :: Flaxleaf Paperbark,536 Brazil Ave,,Sidewalk: Curb side : Cutout,Private,2008-07-10,,3x3,37.7224106741337,-122.430308091157
 7950,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,1735 Franklin St,1.0,Sidewalk: Curb side : Cutout,Private,2008-01-28,3.0,3X3,37.7906815134801,-122.424171198144
-256912,Permitted Site,Pyrus calleryana 'Chanticleer' :: Ornamental Pear Tree 'Chanticleer',26 Lily St,,Sidewalk: Curb side : Cutout,Private,2019-01-07,3.0,3x3,,
 38749,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,222 Schwerin St,17.0,Sidewalk: Curb side : Cutout,Private,1998-10-13,,,37.7102922449528,-122.411583002336
 85259,Permitted Site,Prunus cerasifera 'Atropurpurea' :: Purple-Leaf Plum,2239 Leavenworth St,1.0,Sidewalk: Curb side : Cutout,Private,2007-07-24,,,37.8017712241665,-122.417959005089
 38159,Permitted Site,Syagrus romanzoffianum :: Queen Palm,48 Holyoke St,2.0,Sidewalk: Curb side : Cutout,Private,2014-12-24,3.0,,37.7304592916016,-122.41033893557
@@ -3522,7 +3480,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 40098,Permitted Site,Maytenus boaria :: Mayten,2861 Sacramento St,1.0,Sidewalk: Curb side : Cutout,Private,1999-03-18,,,37.789008840103705,-122.439953148028
 88415,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,1100 Sacramento St,4.0,Sidewalk: Curb side : Cutout,Private,2008-07-10,3.0,3x3,37.792758423123495,-122.41140798549601
 92590,Permitted Site,Pyrus calleryana 'Chanticleer' :: Ornamental Pear Tree 'Chanticleer',445 Wawona St,13.0,Sidewalk: Curb side : Cutout,Private,2009-08-24,,3x3,37.737571604455205,-122.471468876287
-46722,Permitted Site,Quercus agrifolia :: Coast Live Oak,,1.0,Sidewalk: Curb side : Cutout,Private,2002-04-24,,,,
 33481,Permitted Site,Liquidambar styraciflua :: American Sweet Gum,11 Coleridge St,1.0,Sidewalk: Curb side : Cutout,Private,1996-11-25,,,37.7457101385308,-122.418316258344
 42651,Permitted Site,Acacia baileyana :: Bailey's Acacia,1924 Vallejo St,1.0,Sidewalk: Curb side : Cutout,Private,2000-06-26,9.0,,37.7960721541703,-122.42900719184799
 45331,DPW Maintained,Prunus cerasifera :: Cherry Plum,228 Ewing Ter,1.0,Sidewalk: Curb side : Cutout,Private,2001-06-19,6.0,,37.7801606453746,-122.449026307178
@@ -3648,7 +3605,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 66263,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,455 Teresita Blvd,1.0,Sidewalk: Curb side : Cutout,Private,1990-10-24,,,37.7399121448859,-122.447798011738
 85857,DPW Maintained,Ulmus parvifolia :: Chinese Elm,1530 Folsom St,3.0,Sidewalk: Curb side : Cutout,DPW,2007-05-21,3.0,3x3,37.771243409160206,-122.414854606958
 46361,Permitted Site,Populus canadensis :: Canadian Poplar,160 Harrison St,1.0,Sidewalk: Curb side : Cutout,Private,2002-02-27,,,37.7884625396437,-122.390031641839
-38801,Permitted Site,Lophostemon confertus :: Brisbane Box,,6.0,Sidewalk: Curb side : Cutout,Private,1998-10-23,,,,
 41988,Permitted Site,Prunus cerasifera :: Cherry Plum,26 Fairfield Way,2.0,Sidewalk: Curb side : Cutout,Private,2000-06-21,,,37.726408228092495,-122.46339534418301
 31270,Permitted Site,Prunus cerasifera :: Cherry Plum,2555 17th Ave,4.0,Sidewalk: Curb side : Cutout,Private,1995-04-04,,,37.7404897505974,-122.473470084178
 21951,DPW Maintained,Lophostemon confertus :: Brisbane Box,2440 03rd St,2.0,Sidewalk: Curb side : Cutout,DPW,1995-01-25,3.0,3X3,37.758713473659604,-122.388545503191
@@ -3704,7 +3660,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 65207,DPW Maintained,Maytenus boaria :: Mayten,509 Naples St,1.0,Sidewalk: Curb side : Cutout,Private,1989-07-29,12.0,,37.720518669177295,-122.43137740184099
 88386,DPW Maintained,Olea europaea :: Olive Tree,226 19th Ave,,Sidewalk: Curb side : Cutout,Private,2008-07-10,5.0,3x3,37.783655459334796,-122.47846376353901
 42213,Permitted Site,Photinia fraseri :: Photinia: Chinese photinia,963 Harrison St,1.0,Sidewalk: Curb side : Cutout,Private,2000-06-23,,,37.7778545845813,-122.403206224165
-259360,DPW Maintained,Acer rubrum 'October Glory' :: Red October Glory Maple,1699x Keith St,1.0,Sidewalk: Curb side : Cutout,DPW,2019-05-25,3.0,,,
 61274,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,640 Anderson St,1.0,Sidewalk: Curb side : Cutout,Private,1984-01-07,,2x2,37.73551956579271,-122.415580565016
 37436,Permitted Site,Ginkgo biloba :: Maidenhair Tree,1679 Alabama St,1.0,Sidewalk: Curb side : Cutout,Private,1998-06-19,,,37.7458932739273,-122.41043661931499
 72852,DPW Maintained,Aesculus x carnea :: Red Horse Chestnut,864 De Haro St,1.0,Sidewalk: Curb side : Cutout,Private,1998-09-19,4.0,,37.7587495400776,-122.401149183293
@@ -3803,7 +3758,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 90400,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,100X McCoppin St,1.0,Sidewalk: Curb side : Cutout,DPW,2008-02-21,3.0,3x3,37.7716490364194,-122.422545294145
 84455,Permitted Site,Ulmus carpinifolia 'Frontier' :: Frontier Elm 'Frontier',2747 19th St,3.0,Sidewalk: Curb side : Cutout,Private,2009-07-21,,3x3,37.7604445979168,-122.40948047514999
 19339,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,432 Shields St,1.0,Sidewalk: Curb side : Cutout,Private,1994-08-24,6.0,3X3,37.717946195334704,-122.46678146521201
-46287,Permitted Site,Robinia x ambigua :: Locust,,16.0,Sidewalk: Curb side : Cutout,Private,2002-01-31,,,,
 96026,Permitted Site,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,684 Larkin St,1.0,Sidewalk: Curb side : Cutout,Private,2011-09-02,,3x3,37.7841024544834,-122.41762866821699
 49518,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,1483 Sutter St,1.0,Sidewalk: Curb side : Cutout,Private,2006-01-24,,,37.7870982103643,-122.42473122826
 67960,DPW Maintained,Taxus baccata :: Irish Yew,819 28th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1993-03-22,12.0,,37.7738718832899,-122.48759396250901
@@ -3812,7 +3766,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 13111,DPW Maintained,Ficus retusa nitida :: Banyan Fig,1599 Lombard St,3.0,Sidewalk: Curb side : Cutout,DPW,1994-06-22,24.0,3X3,37.8008510262732,-122.4272390368
 43341,Permitted Site,Prunus cerasifera :: Cherry Plum,479 Naples St,3.0,Sidewalk: Curb side : Cutout,Private,2000-07-13,,,37.7211606536918,-122.43086641617501
 93272,DPW Maintained,Magnolia grandiflora 'Samuel Sommer' :: Samuel Sommer Magnolia,1689 Church St,1.0,Sidewalk: Curb side : Cutout,DPW,2008-12-04,3.0,3x3,37.7438729293821,-122.42664157265
-34123,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,,2.0,Sidewalk: Curb side : Cutout,Private,1997-07-05,,,,
 37229,DPW Maintained,Callistemon citrinus :: Lemon Bottlebrush,1866 34th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-06-12,3.0,,37.7523045829279,-122.49237897746599
 37158,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,88 29th Ave,4.0,Sidewalk: Curb side : Cutout,Private,1998-06-08,,,37.7440248746354,-122.422463228878
 31708,DPW Maintained,Eriobotrya deflexa :: Bronze Loquat,498 Frederick St,2.0,Sidewalk: Curb side : Cutout,Private,1995-06-19,7.0,,37.766467371667794,-122.452726796412
@@ -3867,9 +3820,7 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 27583,Permitted Site,Melaleuca nesophila :: Pink Melaleuca,1781 Turk St,1.0,Sidewalk: Curb side : Cutout,Private,2015-08-25,5.0,3X3,37.7795114663002,-122.43829498357901
 62817,DPW Maintained,Pittosporum undulatum :: Victorian Box,1615 Golden Gate Ave,1.0,Sidewalk: Curb side : Cutout,Private,1986-07-08,11.0,,37.7788185643726,-122.43717829801099
 35706,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,1581 Masonic Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-04-10,,,37.7654393090201,-122.44376899807
-47614,Permitted Site,Lophostemon confertus :: Brisbane Box,1209 Houston St,4.0,Sidewalk: Curb side : Cutout,Private,2002-05-20,,,,
 57284,Permitted Site,Prunus cerasifera :: Cherry Plum,2542 15th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1995-09-23,,,37.7405785251638,-122.471079169077
-118352,DPW Maintained,Acacia stenophylla :: Shoestring Acacia,100X Guerrero St,7.0,Median : Cutout,DPW,2016-07-15,3.0,,,
 184669,DPW Maintained,Lagunaria patersonii :: Primrose Tree,1679 37th Ave,1.0,Sidewalk: Curb side : Yard,Private,2019-01-03,3.0,Width 0ft,37.7556907855566,-122.496006782875
 41219,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,41 Mallorca Way,2.0,Sidewalk: Curb side : Cutout,Private,1999-11-30,7.0,,37.8013568843691,-122.437506333775
 9158,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,6000 Geary Blvd,4.0,Sidewalk: Curb side : Cutout,DPW,1993-10-01,3.0,3X3,37.7802568294301,-122.48415543808399
@@ -4057,7 +4008,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 62749,DPW Maintained,Acacia melanoxylon :: Blackwood Acacia,3757 Washington St,1.0,Sidewalk: Curb side : Cutout,Private,1988-12-16,12.0,,37.7889371947488,-122.454759549329
 48665,DPW Maintained,Pyrus kawakamii :: Evergreen Pear,1715REVISED Octavia St,3.0,Sidewalk: Curb side : Cutout,Private,2003-09-13,3.0,,37.7885048406598,-122.42709848948799
 80831,Permitted Site,Schinus terebinthifolius :: Brazilian Pepper,3100 Turk Blvd,2.0,Sidewalk: Curb side : Cutout,Private,2007-12-24,4.0,4x4,37.7774658426,-122.45692919798401
-46726,Permitted Site,Lyonothamnus floribundus subsp. asplenifolius :: Santa Cruz Ironwood,,3.0,Sidewalk: Curb side : Cutout,Private,2002-04-24,,,,
 87602,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,400X Junipero Serra Blvd,6.0,Sidewalk: Curb side : Cutout,DPW,2008-01-18,3.0,3x3,37.729273819408,-122.472133884243
 92116,Permitted Site,Lophostemon confertus :: Brisbane Box,2012 Pine St,1.0,Sidewalk: Curb side : Cutout,Private,2009-07-07,,3x3,37.7886156912351,-122.428941189984
 40599,DPW Maintained,Syagrus romanzoffianum :: Queen Palm,1745 Alameda St,3.0,Sidewalk: Curb side : Cutout,Private,2003-10-09,15.0,,37.768598013121206,-122.40260896823601
@@ -4142,7 +4092,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 22475,DPW Maintained,Tristania conferta ::,6245 03rd St,1.0,Sidewalk: Curb side : Cutout,DPW,1995-01-12,3.0,3x3,37.7217957603798,-122.395748575331
 37691,Permitted Site,Prunus serrulata :: Ornamental Cherry,562 Shotwell St,2.0,Sidewalk: Curb side : Cutout,Private,1998-06-29,,,37.759426574444106,-122.415925080154
 43382,Permitted Site,Olea europaea :: Olive Tree,835 Diamond St,1.0,Sidewalk: Curb side : Cutout,Private,2000-07-17,,,37.7508763608447,-122.436181885123
-43016,Permitted Site,Geijera parviflora :: Australian Willow,,4.0,Sidewalk: Curb side : Cutout,Private,2000-07-05,,,,
 18570,Permitted Site,Rhamnus alaternus :: Italian Buckthorn,698X Randolph St,1.0,Sidewalk: Curb side : Cutout,Private,1997-04-21,6.0,3X3,37.7143316913291,-122.46828327353701
 29240,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,3002X Quintara St,1.0,Sidewalk: Curb side : Cutout,DPW,2006-03-18,3.0,3X3,37.7477657476636,-122.497568970545
 66041,DPW Maintained,Callistemon citrinus :: Lemon Bottlebrush,74 Naples St,1.0,Sidewalk: Curb side : Cutout,Private,1990-07-25,13.0,,37.7274861568572,-122.426277398677
@@ -4231,7 +4180,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 46394,DPW Maintained,Pittosporum crassifolium :: Karo Tree,1978 45th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2008-08-01,3.0,3x3,37.749684111463296,-122.504021759577
 29333,DPW Maintained,Lophostemon confertus :: Brisbane Box,1370X Portola Dr,4.0,Median : Cutout,DPW,2006-01-16,3.0,3X3,37.739426524925705,-122.46581626961999
 53143,Permitted Site,Rhamnus alaternus :: Italian Buckthorn,1498@ KEITH Underwood Ave,5.0,Sidewalk: Curb side : Cutout,Private,2006-11-02,,,37.7287546860169,-122.389872907792
-36641,Permitted Site,Robinia x ambigua :: Locust,,13.0,Sidewalk: Curb side : Cutout,Private,1998-05-20,,,,
 74499,Permitted Site,Lophostemon confertus :: Brisbane Box,231 Franklin St,4.0,Sidewalk: Curb side : Cutout,Private,1995-01-07,,3x3,37.776628267576896,-122.421327091422
 47526,Permitted Site,Pyrus calleryana :: Ornamental Pear,275 27th St,1.0,Sidewalk: Curb side : Cutout,Private,2002-05-14,,,37.7468609706117,-122.426368612986
 50113,Permitted Site,Olea europaea :: Olive Tree,1245 Ulloa St,1.0,Sidewalk: Curb side : Cutout,Private,2003-07-29,,,37.741389254480204,-122.469288354761
@@ -4634,10 +4582,8 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 65825,DPW Maintained,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',1919 Baker St,1.0,Sidewalk: Curb side : Cutout,Private,1990-05-03,16.0,,37.7892565233176,-122.444150926145
 50303,DPW Maintained,Prunus cerasifera :: Cherry Plum,23 Riverton Dr,1.0,Sidewalk: Curb side : Cutout,Private,2004-01-08,4.0,,37.7335855541208,-122.487319225206
 40330,Permitted Site,Magnolia grandiflora :: Southern Magnolia,1045 Mission St,8.0,Sidewalk: Curb side : Cutout,Private,1999-05-14,,,37.780125193562604,-122.409652332288
-36838,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,,4.0,Sidewalk: Curb side : Cutout,Private,1998-05-26,,,,
 72287,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,3814 Balboa St,1.0,Sidewalk: Curb side : Cutout,Private,1996-01-20,5.0,,37.7756829689732,-122.499798944694
 36075,Permitted Site,Robinia x ambigua :: Locust,1698 Bryant St,2.0,Sidewalk: Curb side : Cutout,Private,1998-04-28,,,37.765639390111495,-122.41058007625799
-46196,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,,3.0,Sidewalk: Curb side : Cutout,Private,2001-12-31,,,,
 51928,Permitted Site,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',3004 Sacramento St,1.0,Sidewalk: Curb side : Cutout,Private,2006-07-28,,,37.7888368315168,-122.44242398406
 86144,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,1382 24th Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2007-01-22,3.0,3x3,37.761802743054,-122.482303148823
 73874,Undocumented,Ligustrum lucidum :: Glossy Privet,450X Banks St,4.0,Sidewalk: Curb side : Cutout,SFUSD,1994-06-18,3.0,3x4,37.73712182063289,-122.413131433288
@@ -4663,7 +4609,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 78804,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,463 26th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2000-11-18,5.0,,37.780770953663,-122.48594505901501
 45567,DPW Maintained,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',250 Laurel St,3.0,Sidewalk: Curb side : Cutout,Private,2014-05-07,5.0,,37.788859022076295,-122.45041098909401
 88482,DPW Maintained,Lagunaria patersonii :: Primrose Tree,1221 Newhall St,3.0,Sidewalk: Curb side : Cutout,Private,2008-07-18,5.0,3x3,37.7367114428676,-122.391192904038
-46143,Permitted Site,Lophostemon confertus :: Brisbane Box,,2.0,Sidewalk: Curb side : Cutout,Private,2001-12-27,,,,
 12146,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1400X La Salle Ave,26.0,Sidewalk: Curb side : Cutout,DPW,2016-02-03,3.0,3X3,37.735019532132505,-122.386081061301
 48413,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,2740 Divisadero St,1.0,Sidewalk: Curb side : Cutout,Private,2002-07-24,,,37.7947837004099,-122.44170230856001
 34819,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,410 42nd Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-02-10,9.0,,37.7808869096475,-122.502993342165
@@ -4679,7 +4624,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 39598,DPW Maintained,Gleditsia triacanthos 'Sunburst' :: Sunburst Honey Locust,365 Vermont St,3.0,Sidewalk: Curb side : Cutout,Private,1998-12-29,6.0,,37.765146282890704,-122.40444940203001
 72077,DPW Maintained,Acacia longifolia :: Golden Wattle,140 20th Ave,3.0,Sidewalk: Curb side : Cutout,Private,1984-07-14,12.0,,37.785372951377894,-122.479666163956
 43854,DPW Maintained,Prunus cerasifera :: Cherry Plum,2750 36th Ave,2.0,Sidewalk: Curb side : Cutout,Private,2000-07-27,5.0,,37.7357608377733,-122.49339803308001
-35448,Permitted Site,Liquidambar styraciflua :: American Sweet Gum,790 Peninsula Ave,11.0,Sidewalk: Curb side : Cutout,Private,1998-03-16,,,,
 94006,Permitted Site,Ginkgo biloba :: Maidenhair Tree,1623 10th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2010-06-25,12.0,3x3,37.7579147446993,-122.46709737549
 51794,DPW Maintained,Cupressus sempervirens :: Italian Cypress,308 Wheeler Ave,1.0,Sidewalk: Curb side : Cutout,Private,2005-07-12,5.0,,37.7116539294676,-122.400060094404
 68826,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,319 Edna St,1.0,Sidewalk: Curb side : Cutout,Private,2009-07-16,,3x3,37.7292468248542,-122.446654965606
@@ -4704,7 +4648,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 107779,DPW Maintained,Ginkgo biloba :: Maidenhair Tree,3155 Scott St,2.0,Sidewalk: Curb side : Cutout,Private,2014-10-24,3.0,3x3,37.798998111943604,-122.44102375853599
 60592,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,613 Baker St,1.0,Sidewalk: Curb side : Cutout,Private,1983-01-07,10.0,,37.7767098193279,-122.44163652073
 30652,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,18 Lafayette St,3.0,Sidewalk: Curb side : Cutout,Private,1995-01-30,,,37.773256609499896,-122.417810118831
-47476,Permitted Site,Lophostemon confertus :: Brisbane Box,,2.0,Sidewalk: Curb side : Cutout,Private,2002-05-14,,,,
 51269,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,562 16th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2004-08-18,9.0,,37.7774589911551,-122.47479962984801
 42439,Permitted Site,Prunus serrulata :: Ornamental Cherry,550 Judson Ave,3.0,Sidewalk: Curb side : Cutout,Private,2000-06-23,,,37.7285785035344,-122.45323030571801
 27508,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,1325 Guerrero St,1.0,Sidewalk: Curb side : Cutout,DPW,2000-08-24,12.0,3X3,37.750041509014004,-122.42257322160299
@@ -4766,7 +4709,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 27331,Permitted Site,Lophostemon confertus :: Brisbane Box,352 Haight St,1.0,Sidewalk: Curb side : Cutout,Private,1998-12-12,20.0,4X4,37.7728980391554,-122.428074589009
 39733,Permitted Site,Eucalyptus polyanthemos :: Silver Dollar Eucalyptus,3698 17th St,3.0,Sidewalk: Curb side : Cutout,Private,1999-01-05,,,37.7629635309961,-122.428475481414
 239543,DPW Maintained,Jacaranda mimosifolia :: Jacaranda,91 Bennington St,3.0,Sidewalk: Curb side : Cutout,Private,2017-04-12,3.0,2.5x4,37.7393929694044,-122.41768982014798
-51578,Permitted Site,Ligustrum lucidum :: Glossy Privet,,1.0,Sidewalk: Curb side : Cutout,Private,2005-02-04,,,,
 25386,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,1217 Geneva Ave,1.0,Sidewalk: Curb side : Cutout,DPW,1996-06-25,25.0,3X3,37.714167024663894,-122.43579967681801
 11772,Permitted Site,Corymbia ficifolia :: Red Flowering Gum,1199X Junipero Serra Blvd,16.0,Sidewalk: Curb side : Cutout,PUC,1995-06-23,12.0,3x3,37.7171549272284,-122.472485017828
 45423,Permitted Site,Magnolia grandiflora :: Southern Magnolia,3690 Washington St,4.0,Sidewalk: Curb side : Cutout,Private,2001-07-12,,,37.7891914436893,-122.45378341626301
@@ -4828,7 +4770,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 108842,Permitted Site,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,420 Woolsey St,1.0,Sidewalk: Curb side : Cutout,Private,2015-01-06,3.0,,37.7244535448266,-122.405811727659
 207124,DPW Maintained,Leptospermum laevigatum :: Australian Tea Tree,2 Cranleigh Dr,5.0,Front Yard : Yard,DPW,2016-08-18,9.0,Width 0ft,37.7337895545331,-122.472369667134
 39242,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,70 Rossi Ave,1.0,Sidewalk: Curb side : Cutout,Private,2000-06-26,6.0,,37.7783209442475,-122.456161578366
-36638,Permitted Site,Robinia x ambigua :: Locust,,21.0,Sidewalk: Curb side : Cutout,Private,1998-05-20,,,,
 89438,DPW Maintained,Laurus nobilis :: Sweet Bay: Grecian Laurel,2936 Anza St,1.0,Sidewalk: Curb side : Cutout,DPW,2008-04-18,3.0,3x3,37.778452873034894,-122.480007779772
 52278,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,676 San Jose Ave,1.0,Sidewalk: Curb side : Cutout,Private,2005-11-29,,,37.7445900130216,-122.42259536011801
 39423,Permitted Site,Lophostemon confertus :: Brisbane Box,395Bldg #9 Buchanan St,4.0,Sidewalk: Curb side : Cutout,Private,1998-12-21,,,37.773394340542104,-122.42743561187001
@@ -4867,7 +4808,7 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 40242,Permitted Site,Jacaranda mimosifolia :: Jacaranda,3494 21st St,2.0,Sidewalk: Curb side : Cutout,Private,1999-05-13,,,37.7567102567185,-122.425491387148
 42372,Permitted Site,Acacia baileyana :: Bailey's Acacia,531 Foerster St,2.0,Sidewalk: Curb side : Cutout,Private,2000-06-23,,,37.7325618425703,-122.448960067148
 63082,Permitted Site,Maytenus boaria :: Mayten,347 Moultrie St,1.0,Sidewalk: Curb side : Cutout,Private,1986-11-25,,,37.73974029575471,-122.41575073693599
-80515,Private,Pyrus spp :: Pear Tree,1769X Armstrong Ave,8.0,Sidewalk: Curb side : Cutout,Private,2002-09-07,4.0,,37.7270177061512,-122.393652321999
+80515,Private,Pyrus spp :: Pear Tree,1769X Armstrong Ave,8.0,Sidewalk: Curb side : Cutout,Private,2002-09-07,4.0,4x3,37.7270177061512,-122.393652321999
 26616,DPW Maintained,Eriobotrya deflexa :: Bronze Loquat,1345X Bay Shore Blvd,2.0,Sidewalk: Curb side : Cutout,DPW,1998-01-13,6.0,3X3,37.7274595264664,-122.40192452974199
 36935,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,201 Hoffman Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-05-27,,,37.7524798164389,-122.44068148430401
 34765,Permitted Site,Magnolia grandiflora :: Southern Magnolia,1022 Shotwell St,2.0,Sidewalk: Curb side : Cutout,Private,1997-07-28,,,37.7520477859174,-122.415223874389
@@ -4881,7 +4822,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 58741,DPW Maintained,Pittosporum undulatum :: Victorian Box,336 Connecticut St,1.0,Sidewalk: Curb side : Cutout,Private,1979-07-02,13.0,3x3,37.761982413974295,-122.397540422465
 108734,Permitted Site,Agonis flexuosa :: Peppermint Willow,54 Aloha Ave,,Sidewalk: Curb side : Cutout,Private,2015-01-05,3.0,3x3,37.7575221893456,-122.470994366205
 255408,Planning Code 138.1 required,Acer rubrum :: Red Maple,199x Hayes St,4.0,Sidewalk: Curb side : Cutout,Private,2018-05-21,3.0,3x3,37.7770916699959,-122.41939122510901
-259745,DPW Maintained,Afrocarpus gracilior :: Fern Pine,1300x Quesada Ave,3.0,Side Yard : Cutout,DPW,2018-10-13,3.0,,,
 31632,Permitted Site,Melaleuca nesophila :: Pink Melaleuca,2518 Great Hwy,1.0,Sidewalk: Curb side : Cutout,Private,1995-05-22,,,37.7394442612499,-122.506537629785
 60685,Permitted Site,Lophostemon confertus :: Brisbane Box,2972 23rd St,1.0,Sidewalk: Curb side : Cutout,Private,1983-03-05,,,37.754331944386,-122.411554257302
 13469,DPW Maintained,Platanus x hispanica 'Yarwood' :: Yarwood Sycamore,101 Market St,8.0,Sidewalk: Curb side : Cutout,DPW,2005-01-01,20.0,4X4,37.79368951828,-122.39554333902399
@@ -5003,7 +4943,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 85707,DPW Maintained,Magnolia grandiflora 'Samuel Sommer' :: Samuel Sommer Magnolia,960 Howard St,1.0,Sidewalk: Curb side : Cutout,DPW,2007-04-30,3.0,3x3,37.7804206796364,-122.406370731962
 37375,Permitted Site,Leptospermum scoparium 'Ruby Glow' :: New Zealand Ruby Glow Tea Tree,755 Morse St,9.0,Sidewalk: Property side : Cutout,Private,1998-06-15,3.0,3x3,37.7105564274343,-122.447325069993
 27096,DPW Maintained,Callistemon viminalis :: Weeping Bottlebrush,707 Silver Ave,1.0,Sidewalk: Curb side : Cutout,Private,2006-03-17,3.0,3X3,37.7289490840269,-122.42139293964199
-260665,Permitted Site,Aesculus californica :: California Buckeye,2X Serrano Dr,3.0,Sidewalk: Curb side : Cutout,Private,2019-10-03,3.0,3x6,,
 44185,Permitted Site,Pittosporum undulatum :: Victorian Box,1416 South Van Ness Ave,1.0,Sidewalk: Curb side : Cutout,Private,2000-12-19,,,37.7504723147552,-122.41616922400401
 39293,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,399X Treat Ave,3.0,Sidewalk: Curb side : Cutout,Private,1998-12-21,8.0,3x3,37.7646055260983,-122.413131696747
 63986,DPW Maintained,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',1056 Greenwich St,1.0,Sidewalk: Curb side : Cutout,Private,1987-10-06,11.0,,37.8014215654144,-122.417149775439
@@ -5073,7 +5012,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 53759,Permitted Site,Myoporum laetum :: Myoporum,492x Jersey St,1.0,Sidewalk: Curb side : Cutout,Private,1972-01-27,,,37.750443505469605,-122.43603528995001
 36940,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,115 03rd Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-05-29,11.0,,37.7864686172836,-122.461545434289
 15246,Planning Code 138.1 required,Lophostemon confertus :: Brisbane Box,1401X Mission St,1.0,Sidewalk: Curb side : Cutout,Private,2016-12-29,3.0,3x3,37.774955869255706,-122.41619532227101
-36615,Permitted Site,Robinia x ambigua :: Locust,,2.0,Sidewalk: Curb side : Cutout,Private,1998-05-20,,,,
 91182,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,1 Polk St,9.0,Sidewalk: Curb side : Cutout,Private,2008-10-16,,,37.7765138277066,-122.41757533494
 40487,Permitted Site,Pinus radiata :: Monterey Pine,1955 10th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1999-06-21,,,37.7517778666293,-122.466618163119
 949,DPW Maintained,Taxus baccata :: Irish Yew,1468 Alemany Blvd,1.0,Sidewalk: Curb side : Cutout,DPW,1990-03-06,6.0,3X6,37.7286431202677,-122.434768461095
@@ -5108,7 +5046,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 8796,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,3575 Geary Blvd,5.0,Sidewalk: Curb side : Cutout,Private,2008-11-13,3.0,3x3,37.781175579750204,-122.457725530894
 40406,Permitted Site,Pyrus calleryana :: Ornamental Pear,315 Phelan Ave,1.0,Sidewalk: Curb side : Cutout,Private,1999-06-03,,,37.7291908596691,-122.452530230241
 36790,Permitted Site,Eucalyptus sideroxylon :: Red Ironbark,1314 Donner Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-05-26,,,37.7214056358126,-122.388584951991
-259636,DPW Maintained,::,98x Arleta Ave,2.0,Sidewalk: Curb side : Cutout,DPW,2019-06-01,3.0,,,
 6837,Permitted Site,Hymenosporum flavum :: Sweet Shade,1475 FAIRFAX AVE,2.0,Sidewalk: Curb side : Cutout,Private,2001-03-14,6.0,3X3,37.740975685587394,-122.386700497992
 41702,Permitted Site,Prunus serrulata :: Ornamental Cherry,50 Natick St,1.0,Sidewalk: Curb side : Cutout,Private,2002-05-22,,,37.7341546938819,-122.431896234906
 106310,Significant Tree,Pinus canariensis :: Canary Island Pine,99X Clearfield Dr,4.0,Sidewalk: Property side : Yard,Private,2014-04-15,,,37.73289581695511,-122.49149816384899
@@ -5194,7 +5131,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 32956,DPW Maintained,Yucca gloriosa :: Spanish Dagger,1218 Mariposa St,1.0,Sidewalk: Curb side : Cutout,Private,1996-11-01,12.0,3x8,37.763953908676896,-122.39617085120301
 25500,DPW Maintained,Phoenix canariensis :: Canary Island Date Palm,1745X Market St,5.0,Median : Cutout,DPW,1993-04-01,24.0,20,37.7724068380339,-122.422771813485
 40233,Permitted Site,Magnolia grandiflora :: Southern Magnolia,3750 Mission St,10.0,Sidewalk: Curb side : Cutout,Private,1999-05-13,,,37.7367104548817,-122.42433748337
-34118,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,,2.0,Sidewalk: Curb side : Cutout,Private,1997-07-05,,,,
 109287,DPW Maintained,Agonis flexuosa :: Peppermint Willow,2646 45th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2015-02-05,3.0,3x3,37.737209800771296,-122.503066669454
 54531,DPW Maintained,Ligustrum lucidum :: Glossy Privet,855 37th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1972-07-31,12.0,,37.7728025745037,-122.497177542996
 47340,Permitted Site,Prunus cerasifera :: Cherry Plum,399X Vernon St,2.0,Sidewalk: Property side : Cutout,Private,2002-05-13,,,37.7195937916744,-122.468078236027
@@ -5345,7 +5281,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 44739,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,227 Saint Charles Ave,1.0,Sidewalk: Curb side : Cutout,Private,2001-04-03,11.0,,37.709908299502004,-122.469230282263
 47074,DPW Maintained,Melaleuca nesophila :: Pink Melaleuca,106 Beaumont Ave,1.0,Sidewalk: Curb side : Cutout,Private,2002-05-03,0.0,,37.7799542788822,-122.454694357616
 34995,Permitted Site,Liquidambar styraciflua :: American Sweet Gum,21 Vicksburg St,1.0,Sidewalk: Curb side : Cutout,Private,1998-12-28,,,37.7544810193688,-122.42872554735001
-46731,Permitted Site,Quercus agrifolia :: Coast Live Oak,,3.0,Sidewalk: Curb side : Cutout,Private,2002-04-24,,,,
 61217,Permitted Site,Maytenus boaria :: Mayten,171 Elmira St,1.0,Sidewalk: Curb side : Cutout,Private,1983-12-17,,,37.735005020254604,-122.40354555027399
 47233,DPW Maintained,Prunus cerasifera :: Cherry Plum,260 Holyoke St,1.0,Sidewalk: Curb side : Cutout,Private,2002-05-09,9.0,3x3,37.7279758826708,-122.40929702843701
 59944,Permitted Site,Platanus x hispanica 'Columbia' :: Columbia Hybrid Plane Tree,541 Valencia St,1.0,Sidewalk: Curb side : Cutout,Private,2010-07-04,3.0,3x3,37.7642316511634,-122.421639566353
@@ -5608,7 +5543,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 80789,DPW Maintained,Olea europaea :: Olive Tree,1434 32nd Ave,1.0,Sidewalk: Curb side : Cutout,Private,2009-07-23,2.0,3x3,37.76037422644,-122.490802373284
 23035,DPW Maintained,Lophostemon confertus :: Brisbane Box,956 Valencia St,1.0,Sidewalk: Curb side : Cutout,DPW,1997-05-08,18.0,3X3,37.757499595281296,-122.42137475512399
 63519,Permitted Site,Pyrus kawakamii :: Evergreen Pear,827 York St,1.0,Sidewalk: Curb side : Cutout,Private,1987-04-08,,,37.758839672708795,-122.40867338931001
-36620,Permitted Site,Magnolia grandiflora :: Southern Magnolia,,6.0,Sidewalk: Curb side : Cutout,Private,1998-05-20,,,,
 52755,DPW Maintained,Maytenus boaria :: Mayten,3590 Sacramento St,1.0,Sidewalk: Curb side : Cutout,Private,2006-05-04,10.0,,37.787653997084604,-122.45169468408501
 41329,Permitted Site,Lophostemon confertus :: Brisbane Box,1099 23rd St,8.0,Sidewalk: Curb side : Cutout,Private,2000-02-25,,,37.7551443758892,-122.390887135154
 101627,Permitted Site,Pyrus calleryana 'Aristocrat' :: Aristocrat Callery Pear,1585X Jerrold Ave,1.0,Sidewalk: Curb side : Cutout,Private,2012-11-05,,3x3,37.7385310737434,-122.38905762495199
@@ -5724,7 +5658,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 57690,Permitted Site,Pyrus kawakamii :: Evergreen Pear,149 Chenery St,1.0,Sidewalk: Curb side : Cutout,Private,1982-04-03,,,37.7393625835838,-122.425591185183
 33239,DPW Maintained,Arbutus unedo :: Strawberry Tree,2581 25th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1996-11-07,8.0,,37.739464073986,-122.481964866217
 92442,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1379 45th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2009-07-30,2.0,3x3,37.760868635571605,-122.50496648970899
-256911,Permitted Site,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,26 Lily St,,Sidewalk: Curb side : Cutout,Private,2019-01-07,3.0,3x3,,
 116843,DPW Maintained,Ginkgo biloba :: Maidenhair Tree,2571 30th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2016-05-02,3.0,5x5,37.7393563293641,-122.487394029182
 52960,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,531 Orizaba Ave,1.0,Sidewalk: Curb side : Cutout,Private,2006-08-03,,,37.718779786301205,-122.462738399662
 64295,DPW Maintained,Olea europaea :: Olive Tree,1455 24th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1988-03-18,7.0,,37.7604068931784,-122.482353357176
@@ -5791,7 +5724,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 90512,DPW Maintained,Pyrus calleryana :: Ornamental Pear,601X 25th Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2008-03-18,3.0,3x3,37.778026393270395,-122.48468598029899
 210269,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,1321 Kirkham St,1.0,Sidewalk: Curb side : Cutout,Private,1983-07-09,10.0,Width 3ft,37.7598336026602,-122.475203607164
 27958,Permitted Site,Phoenix canariensis :: Canary Island Date Palm,307X The Embarcadero,2.0,Median : Cutout,Port,2001-02-05,18.0,,37.7974985415834,-122.396404150152
-256668,Permitted Site,Lophostemon confertus :: Brisbane Box,1835 Hyde St,,Sidewalk: Curb side : Cutout,Private,2018-11-19,3.0,3x3,,
 66521,Permitted Site,Lophostemon confertus :: Brisbane Box,933 Castro St,1.0,Sidewalk: Curb side : Cutout,Private,1991-03-22,,,37.754228426046,-122.43427835826598
 86457,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,2254 27th Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2006-12-28,3.0,3x3,37.7453494007747,-122.484375473288
 64029,Permitted Site,Ginkgo biloba :: Maidenhair Tree,2440 15th St,1.0,Sidewalk: Curb side : Cutout,Private,1987-10-09,,,37.7661078086604,-122.437651224519
@@ -5823,7 +5755,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 83308,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,1773-1775 Quesada Ave,1.0,Sidewalk: Curb side : Cutout,Private,2005-09-24,8.0,,37.734039728857205,-122.392890824075
 91212,Permitted Site,Tilia cordata :: Littleleaf Linden,2901 Mission St,2.0,Sidewalk: Curb side : Cutout,Private,2009-02-05,,3x3,37.750624593534496,-122.41824043826999
 100313,DPW Maintained,Pyrus calleryana :: Ornamental Pear,1683 Galvez Ave,1.0,Sidewalk: Curb side : Cutout,Private,2012-08-08,1.0,3x3,37.7415088772353,-122.389384026569
-31854,Permitted Site,Arecastrum romanzoffianum :: Queen Palm,1263 Houston St,2.0,Sidewalk: Curb side : Cutout,Private,1995-06-19,,,,
 45225,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,701-799X Felton St,1.0,Sidewalk: Curb side : Cutout,Private,2001-06-05,,,37.7282773557004,-122.411538639849
 115992,Undocumented,Ficus nitida :: Laurel Fig,438 20th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2016-07-27,3.0,,37.7795296278249,-122.47916224845301
 91028,DPW Maintained,Pyrus calleryana 'Chanticleer' :: Ornamental Pear Tree 'Chanticleer',722 South Van Ness Ave,4.0,Sidewalk: Curb side : Cutout,DPW,2008-11-18,3.0,3x3,37.761577600545394,-122.417211018518
@@ -5884,7 +5815,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 92406,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,2211 35th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2009-07-29,0.0,3x3,37.7457444022459,-122.493217161932
 60510,Permitted Site,Pittosporum crassifolium :: Karo Tree,422 29th St,1.0,Sidewalk: Curb side : Cutout,Private,1982-12-08,,,37.7436040873115,-122.429424038012
 47966,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,85 Teresita Blvd,1.0,Sidewalk: Curb side : Cutout,Private,2002-07-05,,,37.743779954523,-122.45132063672199
-34461,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,1521 Ralston Ave,6.0,Sidewalk: Curb side : Cutout,Private,1997-07-15,,,,
 45551,Permitted Site,Prunus serrulata :: Ornamental Cherry,345 Sloat Blvd,5.0,Sidewalk: Curb side : Cutout,Private,2001-07-24,,,37.734477258874605,-122.47556548665399
 27748,DPW Maintained,Lophostemon confertus :: Brisbane Box,1299 Cesar Chavez St,1.0,Sidewalk: Curb side : Cutout,DPW,2005-07-04,6.0,3X3,37.7500505146893,-122.390401336874
 33377,Permitted Site,Prunus cerasifera :: Cherry Plum,1901 Monterey Blvd,2.0,Sidewalk: Curb side : Cutout,Private,1999-06-23,,,37.7330764284901,-122.46864840809799
@@ -5969,7 +5899,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 34716,DPW Maintained,Arbutus unedo :: Strawberry Tree,870 46th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1997-07-28,7.0,,37.772066217995,-122.506649145791
 33371,Permitted Site,Rhaphiolepis Majestic Beauty :: Indian Hawthorn  'Majestic Beau',1725 Monterey Blvd,2.0,Sidewalk: Curb side : Cutout,Private,1996-11-14,,,37.732979485391795,-122.46721910554899
 34453,DPW Maintained,Ficus microcarpa :: Chinese Banyan,1167 Green St,1.0,Sidewalk: Curb side : Cutout,Private,1997-07-15,10.0,,37.798272471441706,-122.418286300874
-259867,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,101x Desmond St,3.0,Sidewalk: Curb side : Cutout,DPW,2019-03-30,3.0,,,
 63734,Permitted Site,Pittosporum crassifolium :: Karo Tree,547 Page St,1.0,Sidewalk: Curb side : Cutout,Private,1987-06-22,,,37.7730790336555,-122.429748170749
 45388,Permitted Site,Lophostemon confertus :: Brisbane Box,,1.0,Sidewalk: Curb side : Cutout,Private,2001-07-06,,,37.7928819736725,-122.480907237859
 33582,Permitted Site,Acacia baileyana :: Bailey's Acacia,157 Bonview St,1.0,Sidewalk: Curb side : Cutout,Private,1996-11-26,,,37.741375573534896,-122.41781418098302
@@ -6060,7 +5989,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 49941,DPW Maintained,Ginkgo biloba :: Maidenhair Tree,2474@ ULLOA 27th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2003-07-02,1.0,,37.741314111571796,-122.48408097239401
 58696,DPW Maintained,Maytenus boaria :: Mayten,3375 Clay St,1.0,Sidewalk: Curb side : Cutout,Private,1979-05-15,6.0,,37.788845091563296,-122.448400532179
 38429,Permitted Site,Sambucus mexicana :: Blue Elderberry,1000X Wisconsin St,1.0,Sidewalk: Curb side : Cutout,Private,1998-08-18,,,37.7547112450133,-122.398781204994
-34115,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,,2.0,Sidewalk: Curb side : Cutout,Private,1997-07-05,,,,
 84273,Permitted Site,Fraxinus americana :: American Ash,3420 20th St,1.0,Sidewalk: Curb side : Cutout,Private,2008-06-02,,3x3,37.7588076039256,-122.417339857257
 87788,Permitted Site,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,114 Theresa St,,Sidewalk: Curb side : Cutout,Private,2008-05-30,,3x3,37.7289708079503,-122.43466954464199
 76233,DPW Maintained,Lophostemon confertus :: Brisbane Box,2 Townsend St,9.0,Sidewalk: Curb side : Cutout,Private,1996-01-27,14.0,,37.7815542949404,-122.389511184418
@@ -6089,7 +6017,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 51876,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,543 20th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2005-07-15,7.0,,37.7775673337623,-122.47926221223699
 40944,Permitted Site,Prunus serrulata :: Ornamental Cherry,88209 Hoff St,3.0,Sidewalk: Curb side : Cutout,Private,1999-09-27,,,37.76357769940321,-122.42054143219102
 88470,Permitted Site,Pyrus calleryana 'Aristocrat' :: Aristocrat Callery Pear,1519 Innes Ave,,Sidewalk: Curb side : Cutout,Private,2008-07-18,,3x3,37.7384746486807,-122.387470605672
-122649,DPW Maintained,Acer rubrum :: Red Maple,300x Hickory St,5.0,Sidewalk: Curb side : Cutout,Private,2016-11-10,3.0,3x3,,
 27201,DPW Maintained,Lagunaria patersonii :: Primrose Tree,300 Silver Ave,8.0,Sidewalk: Curb side : Cutout,DPW,2012-09-28,3.0,3X3,37.728647412080996,-122.431237903911
 200701,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,1433 Mendell St,1.0,Sidewalk: Curb side : Cutout,DPW,2012-06-26,1.0,Width 0ft,37.7341669595219,-122.390696529464
 74222,DPW Maintained,Ligustrum lucidum :: Glossy Privet,2030 23rd St,1.0,Sidewalk: Curb side : Cutout,Private,1984-08-25,10.0,,37.7547168532055,-122.400190745215
@@ -6105,8 +6032,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 64418,Permitted Site,Agonis flexuosa :: Peppermint Willow,76 Harper St,1.0,Sidewalk: Curb side : Cutout,Private,1988-05-11,,,37.740559459966896,-122.43012971529801
 75994,DPW Maintained,Lophostemon confertus :: Brisbane Box,500 Hyde St,1.0,Sidewalk: Curb side : Cutout,Private,1982-05-29,9.0,,37.785502829521896,-122.41620348452899
 46985,DPW Maintained,Eriobotrya deflexa :: Bronze Loquat,2011 26th St,4.0,Sidewalk: Curb side : Cutout,Private,2002-05-01,5.0,,37.7509565692018,-122.39922003227501
-47379,Permitted Site,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',4453 Manzanita Ave,1.0,Sidewalk: Curb side : Cutout,Private,2002-05-13,,,,
-30595,Permitted Site,Acacia baileyana :: Bailey's Acacia,265 Walter St,2.0,Sidewalk: Curb side : Cutout,Private,1995-01-26,,,,
 98363,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,698@Montana Plymouth Ave,1.0,Sidewalk: Curb side : Cutout,Private,2012-02-07,,3x3,37.7163800987704,-122.45581514154499
 52367,Permitted Site,Lophostemon confertus :: Brisbane Box,701JONES Post St,2.0,Sidewalk: Curb side : Cutout,Private,2005-12-14,,,37.78758679628179,-122.41338890554701
 49399,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,535@ BALBOA 07th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2003-03-18,3.0,,37.7783306565586,-122.465235101695
@@ -6142,7 +6067,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 99478,Permitted Site,Corymbia ficifolia :: Red Flowering Gum,650X Miramar Ave,4.0,Median : Yard,Private,2013-01-15,30.0,15x280,37.728535605791,-122.45808530293199
 38296,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,65 Capp St,7.0,Sidewalk: Curb side : Cutout,Private,1998-07-27,,,37.7658080895378,-122.418555077027
 67625,DPW Maintained,Corymbia ficifolia :: Red Flowering Gum,1281 Vallejo St,1.0,Sidewalk: Curb side : Cutout,Private,1992-10-14,16.0,,37.7972960451262,-122.41850045014601
-46201,Permitted Site,Pyrus kawakamii :: Evergreen Pear,,1.0,Sidewalk: Curb side : Cutout,Private,2001-12-31,,,,
 38391,DPW Maintained,Ginkgo biloba :: Maidenhair Tree,305 Spruce St,1.0,Sidewalk: Curb side : Cutout,Private,1998-08-17,4.0,,37.7880210436742,-122.45381075108999
 113508,DPW Maintained,Callistemon citrinus :: Lemon Bottlebrush,203 WILLOW ST,1.0,Sidewalk: Curb side : Cutout,DPW,2016-02-02,3.0,4x4,37.7831535286214,-122.421281886667
 47158,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,396 San Benito Way,1.0,Sidewalk: Curb side : Cutout,Private,2002-05-08,,,37.729112822622106,-122.468063121949
@@ -6330,7 +6254,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 51629,DPW Maintained,Ginkgo biloba :: Maidenhair Tree,3100ON LYON ST Pacific Ave,3.0,Sidewalk: Curb side : Cutout,Private,2010-07-08,3.0,,37.79190559512271,-122.446601580509
 16337,DPW Maintained,Pyrus calleryana :: Ornamental Pear,862X Monterey Blvd,7.0,Median : Cutout,DPW,2008-04-22,3.0,5,37.7314936249203,-122.45433935097799
 66677,DPW Maintained,Olea europaea :: Olive Tree,2711 Scott St,1.0,Sidewalk: Curb side : Cutout,Private,1991-07-08,4.0,,37.795086675256705,-122.440223414979
-260221,DPW Maintained,Lagunaria patersonii :: Primrose Tree,2201x 22nd Ave,13.0,Sidewalk: Curb side : Cutout,DPW,2018-10-20,3.0,,,
 28346,DPW Maintained,Maytenus boaria :: Mayten,65 Cortland Ave,1.0,Sidewalk: Curb side : Cutout,Private,2006-09-27,6.0,3X3,37.7405511163321,-122.421491527815
 33745,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,99x SAN JOSE AVE,6.0,Sidewalk: Curb side : Cutout,Private,1996-12-11,10.0,4x4,37.7539638411405,-122.421001003808
 42838,DPW Maintained,Olea europaea :: Olive Tree,1258 Chestnut St,1.0,Sidewalk: Curb side : Cutout,Private,2003-08-28,9.0,,37.802451924074795,-122.423892805814
@@ -6356,7 +6279,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 67608,DPW Maintained,Acacia melanoxylon :: Blackwood Acacia,261 25th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1992-10-06,10.0,,37.784664052693294,-122.485165880985
 51886,Permitted Site,Lophostemon confertus :: Brisbane Box,525 Gough St,1.0,Sidewalk: Curb side : Cutout,Private,2014-06-17,5.0,3x3,37.7780643426854,-122.423307034713
 42858,Permitted Site,Melaleuca linariifolia :: Flaxleaf Paperbark,2599 31st Ave,6.0,Sidewalk: Curb side : Cutout,Private,2000-07-03,,,37.7388094476944,-122.488380388139
-258120,DPW Maintained,Pinus canariensis :: Canary Island Pine,500X Clarendon Ave,2.0,Median : Cutout,DPW,2019-05-26,3.0,5x5,,
 118738,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,664 44th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2020-01-16,3.0,Width 4ft,37.7760466849131,-122.50478696156901
 34321,Permitted Site,Jacaranda mimosifolia :: Jacaranda,,19.0,Sidewalk: Curb side : Cutout,Private,1997-07-14,,,37.7500487659499,-122.40281462336901
 49148,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,201REVISED Elmira St,3.0,Sidewalk: Curb side : Cutout,Private,2003-03-27,,,37.7343834996245,-122.40348689328
@@ -6378,7 +6300,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 36965,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,167 05th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-05-29,7.0,,37.785700576420005,-122.463629551786
 255253,Undocumented,Olea europaea 'Fruitless' :: Fruitless Olive,2178 Pine St,1.0,Sidewalk: Curb side : Cutout,Private,2018-04-27,3.0,3x3,37.788319695361096,-122.43158486312001
 33822,DPW Maintained,Maytenus boaria :: Mayten,735 12th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-06-26,4.0,,37.774392280385,-122.470333584415
-40088,Permitted Site,Prunus spp :: Cherry,,1.0,Sidewalk: Curb side : Cutout,Private,1999-03-09,,,,
 258530,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,2122 48th Ave,,Sidewalk: Curb side : Cutout,Private,2019-05-28,3.0,3x3,37.7468263121974,-122.507059135041
 52397,Permitted Site,Melaleuca quinquenervia :: Cajeput,24@ MISSION Santa Marina St,1.0,Sidewalk: Curb side : Cutout,Private,2005-12-15,,,37.7403726422988,-122.422626691285
 28590,DPW Maintained,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',1150 Ocean Ave,16.0,Sidewalk: Curb side : Cutout,DPW,2003-04-03,6.0,3X3,37.7237927195289,-122.45511390994899
@@ -6386,7 +6307,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 6506,DPW Maintained,Ginkgo biloba :: Maidenhair Tree,1200X Evans Ave,48.0,Sidewalk: Curb side : Cutout,DPW,2004-03-30,3.0,3x3,37.7408002912118,-122.38422719521799
 112266,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,2731X Broadway,1.0,Sidewalk: Curb side : Cutout,Private,2015-07-20,3.0,3x3,37.79333040605621,-122.442356358867
 53310,DPW Maintained,Pittosporum undulatum :: Victorian Box,2427 29th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1969-08-28,12.0,3x3,37.7420384981227,-122.486441648664
-255157,DPW Maintained,Lophostemon confertus :: Brisbane Box,3098 Turk St,2.0,Sidewalk: Curb side : Cutout,DPW,2018-03-17,3.0,,,
 66422,Permitted Site,Prunus serrulata :: Ornamental Cherry,318 Banks St,1.0,Sidewalk: Curb side : Cutout,Private,1991-01-09,,,37.7391071412781,-122.412764727092
 22747,DPW Maintained,Pittosporum undulatum :: Victorian Box,1585 Turk St,2.0,Sidewalk: Curb side : Cutout,Private,1990-04-23,12.0,3X3,37.780037629076794,-122.43517680048402
 27994,Permitted Site,Platanus x hispanica 'Yarwood' :: Yarwood Sycamore,300 The Embarcadero,31.0,Sidewalk: Curb side : Cutout,Port,2001-02-05,12.0,4X4,37.7976528582722,-122.395985750709
@@ -6476,7 +6396,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 49559,DPW Maintained,Prunus serrulata :: Ornamental Cherry,38 Arco Way,1.0,Sidewalk: Curb side : Cutout,Private,2003-05-05,5.0,,37.72725466236621,-122.444051595127
 18879,DPW Maintained,Melaleuca quinquenervia :: Cajeput,2315 Sacramento St,1.0,Sidewalk: Curb side : Cutout,Private,1998-06-09,3.0,3X3,37.790097828305,-122.431387267427
 203634,DPW Maintained,Acacia baileyana :: Bailey's Acacia,432 Flood Ave,3.0,Sidewalk: Curb side : Cutout,Private,2000-06-23,11.0,Width 2ft,37.7299211747225,-122.449704832412
-259100,DPW Maintained,Lophostemon confertus :: Brisbane Box,600 Visitacion Ave,2.0,Sidewalk: Curb side : Cutout,DPW,2019-03-30,3.0,,,
 47972,Permitted Site,Leptospermum scoparium 'Ruby Glow' :: New Zealand Ruby Glow Tea Tree,432 Congo St,1.0,Sidewalk: Curb side : Cutout,Private,2002-07-05,,,37.732608325280204,-122.441939236507
 83362,DPW Maintained,Trachycarpus fortunei :: Windmill Palm,3325 Rivera St,1.0,Sidewalk: Curb side : Cutout,Private,2008-07-01,5.0,3x3,37.745553538391206,-122.50213183404101
 42692,Permitted Site,Ceanothus 'Ray Hartman' :: California Lilac 'Ray Hartman',2500 Larkin St,5.0,Sidewalk: Curb side : Cutout,Private,2000-06-26,,,37.8008732765742,-122.42098036158701
@@ -6627,7 +6546,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 256682,Planning Code 138.1 required,Pittosporum undulatum :: Victorian Box,330 Twin Peaks Blvd,8.0,Front Yard : Yard,Private,2019-03-27,3.0,3x3,37.7570936308358,-122.44754983450599
 15205,DPW Maintained,Lophostemon confertus :: Brisbane Box,1139 Mission St,1.0,Sidewalk: Curb side : Cutout,Private,2005-03-21,3.0,3X3,37.7784014283129,-122.411794026693
 89091,DPW Maintained,Laurus nobilis :: Sweet Bay: Grecian Laurel,467 18th Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2008-03-07,3.0,3x3,37.7791095377355,-122.4772288603
-35200,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,,3.0,Sidewalk: Curb side : Cutout,Private,1998-02-10,,,,
 64798,Permitted Site,Prunus cerasifera :: Cherry Plum,477 27th St,1.0,Sidewalk: Curb side : Cutout,Private,1989-01-05,,,37.746590692358104,-122.43087068562401
 25514,DPW Maintained,Phoenix canariensis :: Canary Island Date Palm,2100X Market St,1.0,Median : Cutout,DPW,1993-04-01,36.0,10,37.7672230586461,-122.429305801661
 38426,Permitted Site,Olea europaea :: Olive Tree,126 Joost Ave,1.0,Sidewalk: Curb side : Cutout,Private,1999-08-18,,,37.7324461904854,-122.43810110094299
@@ -6724,7 +6642,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 92843,Permitted Site,Ligustrum lucidum :: Glossy Privet,3440 25th St,5.0,Sidewalk: Curb side : Cutout,Private,2009-04-28,,3x3,37.7506392147773,-122.419029591774
 38488,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,999 Green St,1.0,Sidewalk: Curb side : Cutout,Private,2003-12-31,12.0,,37.7987116832495,-122.415182364581
 50657,Permitted Site,Corymbia ficifolia :: Red Flowering Gum,35 Lake St,1.0,Sidewalk: Curb side : Cutout,Private,2005-01-15,,,37.7868254226819,-122.4596752059
-121138,Planning Code 138.1 required,Pittosporum undulatum :: Victorian Box,1388x Minna St,2.0,Sidewalk: Curb side : Cutout,Private,2016-09-08,3.0,3x3,,
 50482,Permitted Site,Prunus serrulata :: Ornamental Cherry,3753 21st St,2.0,Sidewalk: Curb side : Cutout,Private,2005-06-28,,,37.756211995623005,-122.431383796494
 33065,DPW Maintained,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',1355 Sansome St,1.0,Sidewalk: Curb side : Cutout,Private,1996-11-05,13.0,,37.802895619911205,-122.403209500424
 89647,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,3201 Anza St,3.0,Sidewalk: Curb side : Cutout,DPW,2008-03-21,3.0,3x3,37.778180137898005,-122.482693735286
@@ -6741,7 +6658,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 3553,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,201X Cargo Way,63.0,Sidewalk: Curb side : Cutout,DPW,1990-03-16,3.0,3X3,37.7449859443431,-122.38517728139
 47883,DPW Maintained,Podocarpus macrophyllus :: Yew Pine,1422 45th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2006-02-11,5.0,,37.7599590039895,-122.504747143589
 113241,Planning Code 138.1 required,Platanus x hispanica :: Sycamore: London Plane,329 Brannan St,3.0,Sidewalk: Curb side : Cutout,Private,2015-11-10,3.0,3x4,37.7812877223957,-122.39262057328999
-30354,Permitted Site,Corymbia ficifolia :: Red Flowering Gum,,1.0,Sidewalk: Curb side : Cutout,Private,1956-02-17,,,,
 16343,DPW Maintained,Callistemon citrinus :: Lemon Bottlebrush,922X Monterey Blvd,1.0,Median : Cutout,DPW,2013-01-19,3.0,5,37.7313120760949,-122.456048222959
 59594,DPW Maintained,Pyrus calleryana :: Ornamental Pear,1447 Baker St,1.0,Sidewalk: Curb side : Cutout,Private,1981-02-25,15.0,3x3,37.7844853693895,-122.44321788363199
 61020,Permitted Site,Maytenus boaria :: Mayten,315 Prospect Ave,1.0,Sidewalk: Curb side : Cutout,Private,1996-11-26,,,37.741159278071706,-122.420149037105
@@ -6758,7 +6674,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 87677,Permitted Site,Myoporum laetum :: Myoporum,651 Upland Dr,2.0,Sidewalk: Curb side : Cutout,Private,2008-05-23,,3x3,37.7303580257382,-122.46670519643499
 181687,DPW Maintained,Hakea suaveolens :: Sweet Hakea Tree,1364 45th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2019-04-23,3.0,Width 0ft,37.7611492752094,-122.504829234381
 68299,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,4745 17th St,1.0,Sidewalk: Curb side : Cutout,Private,1993-08-09,,,37.7616198031918,-122.44837942241301
-35187,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,,17.0,Sidewalk: Curb side : Cutout,Private,1998-02-10,,,,
 73918,DPW Maintained,Platanus x hispanica :: Sycamore: London Plane,740 Buchanan St,2.0,Sidewalk: Curb side : Cutout,Private,1995-03-18,7.0,,37.776958856214,-122.42796571067
 87084,Permitted Site,Lophostemon confertus :: Brisbane Box,850 Jones St,1.0,Sidewalk: Curb side : Cutout,Private,2007-12-20,5.0,3x3,37.786243695117506,-122.440076605796
 39209,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,2188 Cayuga Ave,2.0,Sidewalk: Curb side : Cutout,Private,1998-11-23,4.0,3x3,37.7103081651051,-122.454510201448
@@ -6999,9 +6914,7 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 84119,Permitted Site,Pyrus kawakamii :: Evergreen Pear,3637 26th St,1.0,Sidewalk: Curb side : Cutout,Private,2008-06-02,,3x3,37.748750127072896,-122.421760523907
 1224,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,3600X Alemany Blvd,5.0,Sidewalk: Curb side : Cutout,DPW,1998-12-02,15.0,3X5,37.7117516532039,-122.46421760708901
 47114,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,65 Ellsworth St,1.0,Sidewalk: Curb side : Cutout,Private,2002-05-03,,,37.7418697970416,-122.414330302805
-36868,Permitted Site,Lophostemon confertus :: Brisbane Box,,2.0,Sidewalk: Curb side : Cutout,Private,1998-05-26,,,,
 36174,Permitted Site,Lophostemon confertus :: Brisbane Box,3450 Geary Blvd,5.0,Sidewalk: Curb side : Cutout,Private,1998-05-04,,,37.781441954704,-122.456247095506
-37328,Permitted Site,Ceanothus 'Ray Hartman' :: California Lilac 'Ray Hartman',,2.0,Sidewalk: Curb side : Cutout,Private,1998-06-15,,,,
 66974,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,290 Stanyan St,1.0,Sidewalk: Curb side : Cutout,Private,1992-01-22,9.0,,37.7758181337994,-122.45479264802
 26348,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,2668 San Jose Ave,1.0,Sidewalk: Curb side : Cutout,DPW,1997-06-26,3.0,3X3,37.7148194648125,-122.451658391919
 88626,DPW Maintained,Magnolia grandiflora 'Majestic Beauty' :: Majestic Beauty Magnolia,240 Turk St,1.0,Sidewalk: Curb side : Cutout,Private,2008-08-04,,3x3,37.783373868212294,-122.413188342909
@@ -7061,7 +6974,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 51618,Permitted Site,Melaleuca quinquenervia :: Cajeput,396(REVISED) Diamond St,1.0,Sidewalk: Property side : Cutout,Private,2009-06-30,,3x3,37.756038960358296,-122.436840338915
 34703,DPW Maintained,Ulmus parvifolia :: Chinese Elm,591 46th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2008-04-21,4.0,3x3,37.777368864087,-122.50719674082501
 88075,Permitted Site,Olea europaea :: Olive Tree,931 Elizabeth St,,Sidewalk: Curb side : Cutout,Private,2008-06-25,,,37.7516118173154,-122.441324145572
-122667,DPW Maintained,Lophostemon confertus :: Brisbane Box,401x Laguna St,5.0,Sidewalk: Curb side : Cutout,Private,2016-11-10,3.0,3X3,,
 66331,DPW Maintained,Pittosporum undulatum :: Victorian Box,1221 31st Ave,1.0,Sidewalk: Curb side : Cutout,Private,1990-12-05,8.0,,37.7643784727426,-122.490156589457
 83960,Permitted Site,Maytenus boaria :: Mayten,1258 11th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2008-06-16,,3x3,37.7647275470347,-122.46841586512
 107886,DPW Maintained,Ginkgo biloba :: Maidenhair Tree,941 Washington St,4.0,Sidewalk: Curb side : Cutout,SFUSD,2014-11-03,3.0,3x3,37.7944046419585,-122.40879946771999
@@ -7125,7 +7037,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 50167,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,2451@TARAVAL 21st Ave,1.0,Sidewalk: Curb side : Cutout,Private,2003-08-11,6.0,,37.742001074945,-122.47784824542299
 52073,DPW Maintained,Platanus x hispanica :: Sycamore: London Plane,10 Normandie Ter,1.0,Sidewalk: Curb side : Cutout,Private,2005-10-11,5.0,,37.793867787207496,-122.4406668518
 106029,DPW Maintained,Ceratonia siliqua :: Carob,180 Howard St,5.0,Sidewalk: Curb side : Cutout,Private,2015-02-05,14.0,3x3,37.790852311826704,-122.39322941879801
-109931,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,2822 Moraga Ave,1.0,Sidewalk: Curb side : Cutout,Private,2015-03-12,3.0,3x3,,
 109917,DPW Maintained,Tristaniopsis laurina 'Elegant' :: Small-leaf Tristania 'Elegant',1627 34th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2015-03-12,3.0,3x3,37.7567026728441,-122.492905692842
 29544,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,2900X Ingalls St,1.0,Sidewalk: Curb side : Cutout,DPW,2019-10-19,3.0,3X3,37.7208711738855,-122.39148952766001
 215669,DPW Maintained,Ulmus spp :: Elm Spp,100 Cortes Ave,1.0,Sidewalk: Curb side : Cutout,Private,2016-04-21,12.0,Width 3ft,37.7441757763018,-122.46618763477
@@ -7135,7 +7046,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 107378,Permitted Site,Prunus cerasifera 'Krauter vesuvius' :: Purple Leaf Plum Krauter Vesuvius,2828X 18th St,5.0,Sidewalk: Curb side : Cutout,Private,2014-08-28,,3X3,37.761757232521504,-122.410161487216
 64125,Permitted Site,Eriobotrya deflexa :: Bronze Loquat,623 29th St,1.0,Sidewalk: Curb side : Cutout,Private,1987-12-05,,,37.743194474099795,-122.43381607276599
 95977,DPW Maintained,Pittosporum undulatum :: Victorian Box,6400 Geary Blvd,2.0,Median :,DPW,2011-03-12,1.0,,37.780007928322,-122.487938057094
-46285,Permitted Site,Ulmus parvifolia :: Chinese Elm,,2.0,Sidewalk: Curb side : Cutout,Private,2002-01-31,,,,
 89587,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,4645 Anza St,3.0,Sidewalk: Curb side : Cutout,DPW,2008-03-27,3.0,3x3,37.777471381785105,-122.49820750551599
 26574,DPW Maintained,Eriobotrya deflexa :: Bronze Loquat,355 Bay Shore Blvd,4.0,Sidewalk: Curb side : Cutout,DPW,2006-03-18,3.0,3X3,37.742098094898,-122.40574814809999
 40796,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,567 Corbett Ave,1.0,Sidewalk: Curb side : Cutout,Private,1999-08-18,,,37.7573305523226,-122.443897554692
@@ -7172,7 +7082,7 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 41169,DPW Maintained,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',15 Avila St,1.0,Sidewalk: Curb side : Cutout,Private,1999-11-23,9.0,,37.8005755677693,-122.44043116197399
 42444,Permitted Site,Melaleuca styphelliodes :: Paperbark Tree,274 Mangels Ave,1.0,Sidewalk: Curb side : Cutout,Private,2000-06-23,,,37.7331617542013,-122.443717725893
 40657,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,300 Congdon St,4.0,Sidewalk: Curb side : Cutout,Private,2005-03-04,7.0,,37.729185251382,-122.4260800191
-80510,Private,Alnus rhombifolia :: White Alder,1740 Bancroft Ave,5.0,Sidewalk: Curb side : Cutout,Private,2007-08-20,9.0,,37.7270177061512,-122.393652321999
+80510,Private,Alnus rhombifolia :: White Alder,1740 Bancroft Ave,5.0,Sidewalk: Curb side : Cutout,Private,2007-08-20,9.0,4x3,37.7270177061512,-122.393652321999
 83300,DPW Maintained,Pittosporum undulatum :: Victorian Box,2636 McAllister St,1.0,Sidewalk: Curb side : Cutout,Private,2008-08-04,7.0,3x3,37.775687283181604,-122.45542322157699
 67242,Permitted Site,Callistemon citrinus :: Lemon Bottlebrush,350 Hermann St,1.0,Sidewalk: Curb side : Cutout,Private,1992-06-08,8.0,,37.7702074667281,-122.43092525768299
 60775,Permitted Site,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,709 Elizabeth St,1.0,Sidewalk: Curb side : Cutout,Private,2010-06-11,,3x3,37.751875027523205,-122.436602063487
@@ -7364,7 +7274,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 25878,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,800X The Embarcadero,42.0,Sidewalk: Curb side : Cutout,Port,1995-10-30,6.0,4X4,37.8015914871903,-122.399988525233
 39748,Permitted Site,Melaleuca styphelliodes :: Paperbark Tree,20 Ford St,1.0,Sidewalk: Curb side : Cutout,Private,2002-05-22,,,37.7619979834905,-122.431115112407
 143889,DPW Maintained,Laurus x 'Saratoga' :: Hybrid Laurel,2730 Clement St,1.0,Sidewalk: Curb side : Cutout,DPW,2018-02-24,3.0,Width 4ft,37.7819299138687,-122.488749226413
-34466,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,1521 Ralston Ave,5.0,Sidewalk: Curb side : Cutout,Private,1997-07-15,,,,
 93237,DPW Maintained,Hymenosporum flavum :: Sweet Shade,576 Church St,1.0,Sidewalk: Curb side : Cutout,DPW,2008-12-01,3.0,3x3,37.76166400108121,-122.428588395846
 86458,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,2226 27th Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2006-12-28,3.0,3x3,37.7458387037388,-122.48441658969999
 38621,Permitted Site,Dodonaea viscosa :: Hop Bush,1295 Shafter Ave,4.0,Sidewalk: Curb side : Cutout,Private,1998-10-24,,,37.727729298658296,-122.385043230392
@@ -7429,7 +7338,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 68062,Permitted Site,Ginkgo biloba :: Maidenhair Tree,1875 09th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1993-04-26,,,37.7533306442265,-122.465656517726
 91973,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,1336 09th Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2009-02-20,3.0,3x3,37.7633412167636,-122.466192723388
 38378,DPW Maintained,Tristania conferta ::,2027 Powell St,1.0,Sidewalk: Curb side : Cutout,Private,1998-08-03,11.0,,37.8034460574359,-122.411536943543
-259737,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,100x Florida St,3.0,Sidewalk: Curb side : Cutout,DPW,2018-06-09,3.0,,,
 38845,Permitted Site,Rhamnus alaternus :: Italian Buckthorn,1333 20th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-11-02,,,37.76288358166779,-122.47823721882601
 85780,DPW Maintained,Ulmus parvifolia :: Chinese Elm,1301 Folsom St,3.0,Sidewalk: Curb side : Cutout,DPW,2007-05-07,3.0,3x3,37.7735740897245,-122.41169762032699
 93380,DPW Maintained,Fraxinus americana 'Autumn Purple' :: American Autumn Purple Ash,3098X Turk Blvd,1.0,Sidewalk: Curb side : Cutout,DPW,2008-12-08,3.0,3x3,37.77760171599729,-122.456623735227
@@ -7547,7 +7455,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 255423,Planning Code 138.1 required,Lagunaria patersonii :: Primrose Tree,2398X 44th Ave,2.0,Sidewalk: Curb side : Cutout,Private,2018-05-21,3.0,3x3,37.742001690295204,-122.502304062071
 35236,DPW Maintained,Ficus microcarpa :: Chinese Banyan,1198 Filbert St,1.0,Sidewalk: Curb side : Cutout,Private,1998-02-17,10.0,,37.80023000775871,-122.418976495462
 59647,Permitted Site,Ficus microcarpa :: Chinese Banyan,100 Fillmore St,1.0,Sidewalk: Curb side : Cutout,Private,1987-05-05,,6x9,37.770549162658895,-122.43004409806002
-39332,Permitted Site,Prunus serrulata :: Ornamental Cherry,0 21st St,2.0,Sidewalk: Curb side : Cutout,Private,1998-12-21,,,,
 41931,DPW Maintained,Maytenus boaria :: Mayten,557 04th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2000-06-20,5.0,,37.778283833808395,-122.46201987321999
 81722,DPW Maintained,Ginkgo biloba :: Maidenhair Tree,998 Indiana St,3.0,Sidewalk: Curb side : Cutout,Private,2004-03-27,4.0,,37.758352394954,-122.39133801773899
 50396,Permitted Site,Prunus cerasifera 'Krauter vesuvius' :: Purple Leaf Plum Krauter Vesuvius,62 Springfield Dr,1.0,Sidewalk: Curb side : Cutout,Private,2006-02-18,,,37.7328787927022,-122.48799514007798
@@ -7635,9 +7542,7 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 37389,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,95 Newton St,4.0,Sidewalk: Curb side : Cutout,Private,1998-06-15,,,37.7133445267591,-122.438522184842
 69430,Permitted Site,Prunus serrulata :: Ornamental Cherry,818 Hampshire St,1.0,Sidewalk: Curb side : Cutout,Private,1994-05-10,,,37.7589804175587,-122.407965134851
 54433,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,336 Mississippi St,1.0,Sidewalk: Curb side : Cutout,Private,1972-06-23,8.0,,37.76195214638621,-122.394636773279
-259089,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1201 Visitacion Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2019-06-01,3.0,,,
 24714,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,7230 Geary Blvd,1.0,Sidewalk: Curb side : Cutout,Private,1996-02-22,5.0,5,37.7796505549558,-122.49715404202601
-47611,Permitted Site,Lophostemon confertus :: Brisbane Box,1201 Houston St,3.0,Sidewalk: Curb side : Cutout,Private,1994-05-01,,,,
 90762,DPW Maintained,Agonis flexuosa :: Peppermint Willow,4025 Cabrillo St,1.0,Sidewalk: Curb side : Cutout,DPW,2008-04-07,3.0,3x3,37.7735850356272,-122.501737802253
 54492,DPW Maintained,Olea europaea :: Olive Tree,550 39th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1972-07-11,8.0,,37.7783983708083,-122.49958377753
 50751,Permitted Site,Prunus serrulata :: Ornamental Cherry,159 Commonwealth Ave,2.0,Sidewalk: Curb side : Cutout,Private,2004-02-06,,,37.7824809034135,-122.45569129682801
@@ -7696,7 +7601,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 43823,DPW Maintained,Prunus cerasifera :: Cherry Plum,2506 35th Ave,1.0,Sidewalk: Curb side : Cutout,Private,2000-07-27,2.0,,37.7402437129791,-122.492611983862
 224581,DPW Maintained,Jacaranda mimosifolia :: Jacaranda,2701 16th St,5.0,Sidewalk: Curb side : Cutout,Private,2018-01-17,3.0,6x3,37.765357240457604,-122.413478706001
 40231,Permitted Site,Magnolia grandiflora :: Southern Magnolia,3750 Mission St,12.0,Sidewalk: Curb side : Cutout,Private,1999-05-13,,,37.7367104548817,-122.42433748337
-260421,DPW Maintained,Eriobotrya deflexa :: Bronze Loquat,200x Bacon St,5.0,Sidewalk: Curb side : Cutout,DPW,2019-08-17,3.0,,,
 4274,DPW Maintained,Maytenus boaria :: Mayten,4205 Cesar Chavez St,1.0,Sidewalk: Curb side : Cutout,DPW,1997-02-06,3.0,3X3,37.7472124136414,-122.43409206660101
 93688,Permitted Site,Pyrus calleryana :: Ornamental Pear,2550 25th Ave,12.0,Sidewalk: Curb side : Cutout,Private,2009-07-27,,3x3,37.7396858417248,-122.481366393427
 29289,DPW Maintained,Lophostemon confertus :: Brisbane Box,400X Portola Dr,10.0,Median : Cutout,DPW,2005-10-14,3.0,3X3,37.7460320165688,-122.44951572839099
@@ -7708,7 +7612,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 43500,Permitted Site,Callistemon citrinus :: Lemon Bottlebrush,401 Gates St,3.0,Sidewalk: Curb side : Cutout,Private,2000-07-19,,,37.73830646369329,-122.413905114955
 7123,DPW Maintained,Afrocarpus gracilior :: Fern Pine,300X Fern St,2.0,Sidewalk: Curb side : Cutout,Private,1990-02-02,9.0,3x3,37.7878131752727,-122.42374600408701
 62822,DPW Maintained,Pittosporum undulatum :: Victorian Box,1409 McAllister St,1.0,Sidewalk: Curb side : Cutout,Private,1986-07-08,13.0,,37.778094756883895,-122.435409973848
-122668,DPW Maintained,Lyonothamnus floribundus subsp. asplenifolius :: Santa Cruz Ironwood,301x Hickory St,1.0,Sidewalk: Curb side : Cutout,Private,2016-11-10,3.0,3X3,,
 46267,Permitted Site,Prunus x yedoensis 'Akebono' :: Daybreak Yoshino Cherry,442 Arlington St,1.0,Sidewalk: Curb side : Cutout,Private,2010-10-22,,3x3,37.7355817841202,-122.428988298919
 36288,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,68drive Rossmoor Dr,2.0,Sidewalk: Curb side : Cutout,Private,1998-05-13,,,37.7307008871423,-122.47392500050199
 31526,Permitted Site,Prunus cerasifera :: Cherry Plum,1331 San Bruno Ave,1.0,Sidewalk: Curb side : Cutout,Private,1995-05-10,,,37.7235315553844,-122.401806235857
@@ -7857,7 +7760,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 60157,Permitted Site,Maytenus boaria :: Mayten,1914 18th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1982-04-28,,,37.752121173805705,-122.475165290627
 62019,DPW Maintained,Ligustrum lucidum :: Glossy Privet,1617 Lyon St,1.0,Sidewalk: Curb side : Cutout,Private,1991-02-21,7.0,,37.7860992534846,-122.445222417327
 35465,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,430 Polk St,3.0,Sidewalk: Curb side : Cutout,Private,1998-03-17,,,37.780588935594395,-122.418577996505
-122661,DPW Maintained,Acer rubrum :: Red Maple,300x Hickory St,17.0,Sidewalk: Curb side : Cutout,Private,2016-11-10,3.0,3x3,,
 60874,DPW Maintained,Lophostemon confertus :: Brisbane Box,801 Greenwich St,1.0,Sidewalk: Curb side : Cutout,Private,2002-03-21,7.0,,37.801794151831295,-122.413149610791
 116467,Permitted Site,Acer rubrum :: Red Maple,1945 08th Ave,4.0,Sidewalk: Curb side : Cutout,Private,2016-04-04,3.0,3x3,37.751887038112,-122.46435101080601
 39362,Permitted Site,Olea europaea :: Olive Tree,2433 Folsom St,1.0,Sidewalk: Curb side : Cutout,Private,1998-12-21,,,37.7583626864034,-122.41455027836001
@@ -7895,7 +7797,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 52424,Permitted Site,Quercus agrifolia :: Coast Live Oak,300 Seneca Ave,3.0,Sidewalk: Curb side : Cutout,Private,2005-12-22,,,37.7211856330713,-122.44452732141501
 29607,DPW Maintained,Myoporum laetum :: Myoporum,900X Junipero Serra Blvd,16.0,Median : Cutout,DPW,2013-03-09,3.0,3X3,37.7210755258009,-122.472582381082
 10108,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,799X Guerrero St,2.0,Sidewalk: Curb side : Cutout,DPW,2014-12-02,3.0,3x3,37.7585972596694,-122.42339531706699
-30435,Permitted Site,Magnolia grandiflora :: Southern Magnolia,3229 Barker St,1.0,Sidewalk: Curb side : Cutout,Private,1956-05-11,,,,
 41126,DPW Maintained,Platanus x hispanica :: Sycamore: London Plane,2001 Grove St,3.0,Sidewalk: Curb side : Cutout,Private,1999-11-18,8.0,,37.7743661226249,-122.449786775294
 92081,Permitted Site,Archontophoenix cunninghamiana :: King Palm,25 Mirabel Ave,1.0,Sidewalk: Curb side : Cutout,Private,2009-06-23,,3x3,37.746377360701295,-122.41700407936001
 18272,DPW Maintained,Pyrus kawakamii :: Evergreen Pear,1950 Post St,1.0,Sidewalk: Curb side : Cutout,DPW,2007-12-27,6.0,4X4,37.78511237688,-122.433943294941
@@ -7972,7 +7873,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 69350,DPW Maintained,Lagerstroemia indica :: Crape Myrtle,3445 Fillmore St,1.0,Sidewalk: Curb side : Cutout,Private,1994-04-18,1.0,,37.8013734076063,-122.43659389422
 116762,Undocumented,Maytenus boaria :: Mayten,1274 DE HARO ST,1.0,Sidewalk: Curb side : Cutout,Private,2016-05-25,3.0,5x5,37.753564960892895,-122.400706620133
 108761,Permitted Site,Magnolia grandiflora 'Samuel Sommer' :: Samuel Sommer Magnolia,1350 Church St,1.0,Sidewalk: Curb side : Cutout,Private,2015-01-05,3.0,3x3,37.749267509186204,-122.427266693799
-36627,Permitted Site,Magnolia grandiflora :: Southern Magnolia,,9.0,Sidewalk: Curb side : Cutout,Private,1998-05-20,,,,
 82717,Permitted Site,Lophostemon confertus :: Brisbane Box,4947 03rd St,1.0,Sidewalk: Curb side : Cutout,Private,2009-07-07,,3x3,37.7332166283257,-122.391128759354
 260552,DPW Maintained,Cordyline australis :: Dracena Palm,1822 42nd Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2019-08-27,3.0,,37.752706632515,-122.50101741016898
 12344,DPW Maintained,Tristania conferta ::,1200 Laguna St,3.0,Sidewalk: Curb side : Cutout,DPW,1993-09-16,6.0,4X4,37.782343132875795,-122.427359916847
@@ -8010,7 +7910,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 39783,Permitted Site,Magnolia grandiflora :: Southern Magnolia,50 San Jose Ave,8.0,Sidewalk: Curb side : Cutout,Private,1999-01-19,,,37.7544443606741,-122.42156762045201
 13232,DPW Maintained,Lophostemon confertus :: Brisbane Box,2301 LOMBARD ST,1.0,Sidewalk: Curb side : Cutout,DPW,1995-04-12,10.0,3X3,37.7992195934801,-122.439609056557
 42011,Permitted Site,Melaleuca quinquenervia :: Cajeput,1265 Monterey Blvd,3.0,Sidewalk: Curb side : Cutout,Private,2000-06-21,,,37.7302533156885,-122.4627568813
-36863,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,,8.0,Sidewalk: Curb side : Cutout,Private,1998-05-26,,,,
 67214,Permitted Site,Lophostemon confertus :: Brisbane Box,819 Fell St,1.0,Sidewalk: Curb side : Cutout,Private,1992-05-26,,,37.7747897384838,-122.43132893644501
 42599,DPW Maintained,Lyonothamnus floribundus subsp. asplenifolius :: Santa Cruz Ironwood,2222 Clay St,1.0,Sidewalk: Curb side : Cutout,Private,2000-06-26,4.0,,37.7912561101206,-122.43048114921301
 73675,DPW Maintained,Eucalyptus polyanthemos :: Silver Dollar Eucalyptus,510 Union St,1.0,Sidewalk: Curb side : Cutout,Private,1995-12-02,11.0,,37.80065275675229,-122.407945198153
@@ -8142,10 +8041,8 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 26281,DPW Maintained,Olea europaea :: Olive Tree,1884 San Jose Ave,1.0,Sidewalk: Curb side : Cutout,Private,2011-06-04,12.0,3x4,37.7270357601912,-122.441500974804
 32433,DPW Maintained,Lophostemon confertus :: Brisbane Box,370 Lexington St,1.0,Sidewalk: Curb side : Cutout,Private,1996-10-09,16.0,,37.7573902597604,-122.42043724898701
 28630,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,1299 Ocean Ave,10.0,Sidewalk: Curb side : Cutout,Private,2003-04-03,3.0,3X3,37.7236805140054,-122.455882701682
-35455,Permitted Site,Liquidambar styraciflua :: American Sweet Gum,790 Peninsula Ave,12.0,Sidewalk: Curb side : Cutout,Private,1998-03-16,,,,
 35925,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,2660 Pacific Ave,2.0,Sidewalk: Curb side : Cutout,Private,1998-04-24,17.0,3x3,37.7928676736556,-122.439075121022
 34712,Permitted Site,Arbutus unedo :: Strawberry Tree,814 46th Ave,2.0,Sidewalk: Curb side : Cutout,Private,1997-07-28,,,37.7731048066849,-122.50670911846599
-35175,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,,7.0,Sidewalk: Curb side : Cutout,Private,1998-02-10,,,,
 68018,Permitted Site,Lophostemon confertus :: Brisbane Box,132 Corbett Ave,1.0,Sidewalk: Curb side : Cutout,Private,2006-10-21,,,37.7616966470344,-122.441265750936
 66325,Permitted Site,Melaleuca ericifolia :: Heath Melaleuca,131 Mangels Ave,1.0,Sidewalk: Curb side : Cutout,Private,1990-12-05,,,37.733035259904206,-122.440462292733
 62554,Permitted Site,Acacia longifolia :: Golden Wattle,950 Page St,1.0,Sidewalk: Curb side : Cutout,Private,1986-02-08,,,37.772379247666,-122.436429497983
@@ -8200,7 +8097,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 36319,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,216 Colon Ave,2.0,Sidewalk: Curb side : Cutout,Private,1998-05-14,,,37.73022100988489,-122.45578153274799
 32971,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,395 Missouri St,1.0,Sidewalk: Curb side : Cutout,Private,1996-11-01,,,37.7613932139114,-122.39632376794701
 88239,Permitted Site,Magnolia grandiflora 'Little Gem' :: Little Gem Magnolia,2501 Turk Blvd,1.0,Sidewalk: Curb side : Cutout,Private,2008-07-08,,3x3,37.778227810594295,-122.44899139417299
-52794,Permitted Site,Rhamnus alaternus :: Italian Buckthorn,1277TEHAMA Houston St,2.0,Sidewalk: Curb side : Cutout,Private,2006-05-25,,,,
 44733,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1250 Quintara St,5.0,Sidewalk: Curb side : Cutout,Private,2001-04-03,4.0,,37.7485978963189,-122.479055062469
 32798,Permitted Site,Magnolia grandiflora :: Southern Magnolia,1775 Grove St,1.0,Sidewalk: Curb side : Cutout,Private,1996-10-29,,,37.7748565251647,-122.44582949005199
 36434,Permitted Site,Prunus serrulata :: Ornamental Cherry,435 Montecito Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-05-18,,,37.7293823258224,-122.457023785093
@@ -8231,7 +8127,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 33960,DPW Maintained,Pyrus calleryana :: Ornamental Pear,690 Chestnut St,1.0,Sidewalk: Curb side : Cutout,Private,1997-04-21,12.0,,37.803675389390605,-122.414350026627
 39567,Permitted Site,Magnolia grandiflora :: Southern Magnolia,340 Kansas St,3.0,Sidewalk: Curb side : Cutout,Private,1998-12-28,,,37.7654766104888,-122.40368478038299
 76263,DPW Maintained,Lophostemon confertus :: Brisbane Box,2 Townsend St,8.0,Sidewalk: Curb side : Cutout,Private,1996-01-27,14.0,,37.7816068108346,-122.389420438302
-38231,Permitted Site,Geijera parviflora :: Australian Willow,0 16th St,2.0,Sidewalk: Curb side : Cutout,Private,1998-07-21,,,,
 55488,DPW Maintained,Platanus x hispanica :: Sycamore: London Plane,635 Steiner St,1.0,Sidewalk: Curb side : Cutout,Private,1972-11-30,12.0,,37.7751844486333,-122.43282607511401
 46691,Permitted Site,Melaleuca quinquenervia :: Cajeput,1039 Kirkham St,1.0,Sidewalk: Curb side : Cutout,Private,2002-04-22,,,37.75998808961071,-122.47176556697201
 61543,DPW Maintained,Maytenus boaria :: Mayten,167 15th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1984-08-20,9.0,,37.785013883934,-122.47436940418699
@@ -8285,7 +8180,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 67419,DPW Maintained,Agonis flexuosa :: Peppermint Willow,507 17th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1992-07-30,21.0,,37.7783623005847,-122.476094929494
 139887,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1575 TURK ST,5.0,Sidewalk: Curb side : Cutout,Private,2001-01-19,6.0,Width 0ft,37.7801190291536,-122.434521848172
 89616,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,3849X Anza St,1.0,Sidewalk: Curb side : Cutout,DPW,2008-03-21,3.0,3x3,37.7778605985985,-122.48977838231701
-34117,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,,1.0,Sidewalk: Curb side : Cutout,Private,1997-07-05,,,,
 63576,DPW Maintained,Pittosporum undulatum :: Victorian Box,1338 Filbert St,1.0,Sidewalk: Curb side : Cutout,Private,1992-09-19,15.0,,37.799907054034904,-122.421376454187
 49583,Permitted Site,Acacia baileyana :: Bailey's Acacia,400REVISED Alemany Blvd,4.0,Sidewalk: Curb side : Cutout,Private,2003-05-29,,,37.7332696598424,-122.414009852171
 41905,Permitted Site,Prunus cerasifera :: Cherry Plum,37 Walter St,1.0,Sidewalk: Curb side : Cutout,Private,2000-06-20,8.0,,37.7686090792386,-122.432312685373
@@ -8334,7 +8228,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 11080,DPW Maintained,Lophostemon confertus :: Brisbane Box,1837 Hyde St,1.0,Sidewalk: Curb side : Cutout,DPW,2014-05-09,3.0,3X3,37.797805779981,-122.418845694483
 87920,DPW Maintained,Pyrus calleryana :: Ornamental Pear,1395 Lyon St,1.0,Sidewalk: Curb side : Cutout,Private,2008-06-18,5.0,3x3,37.7835348830065,-122.444697314266
 27769,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,199X The Embarcadero,2.0,Sidewalk: Curb side : Cutout,Rec/Park,2000-12-01,6.0,,37.796589013389394,-122.39552688195299
-30591,Permitted Site,Acacia baileyana :: Bailey's Acacia,253 Walter St,1.0,Sidewalk: Curb side : Cutout,Private,1995-01-26,,,,
 209947,DPW Maintained,Metrosideros excelsa :: New Zealand Xmas Tree,2400 14th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1995-08-22,13.0,Width 3ft,37.7431222717841,-122.47014058862301
 47967,Permitted Site,Pittosporum crassifolium :: Karo Tree,370 Teresita Blvd,1.0,Sidewalk: Curb side : Cutout,Private,2002-07-05,,,37.7411407391747,-122.449613145498
 87164,Permitted Site,Magnolia grandiflora 'Russet' :: Russet Magnolia,215 Napoleon St,5.0,Sidewalk: Curb side : Cutout,Private,2008-01-22,,3x3,37.7461044022911,-122.400361833701
@@ -8347,14 +8240,11 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 12783,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1918 Lake St,1.0,Sidewalk: Curb side : Cutout,Private,2008-07-24,3.0,3X3,37.786042132642,-122.480352374421
 72003,DPW Maintained,Prunus cerasifera :: Cherry Plum,1991 28th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1995-12-16,4.0,,37.75029074773129,-122.48593987171101
 94973,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,230 Seacliff Ave,5.0,Sidewalk: Curb side :,Private,2010-04-28,,,37.7886824393648,-122.488534508212
-259638,DPW Maintained,::,99x Arleta Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2019-06-01,3.0,,,
-31898,Permitted Site,Rhaphiolepis Majestic Beauty :: Indian Hawthorn  'Majestic Beau',1525 Houston St,4.0,Sidewalk: Curb side : Cutout,Private,1995-06-26,,,,
 88271,Permitted Site,Rhamnus alaternus :: Italian Buckthorn,142 Belvedere St,,Sidewalk: Curb side : Cutout,Private,2008-07-08,,3x3,37.7679258166536,-122.449101033169
 62954,DPW Maintained,Ficus microcarpa nitida 'Green Gem' :: Indian Laurel Fig Tree 'Green Gem',75 Hawthorne St,1.0,Sidewalk: Curb side : Cutout,Private,1986-08-13,12.0,,37.7851121154665,-122.39830074888201
 102711,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,445 El Camino Del Mar,2.0,Sidewalk: Curb side : Cutout,Private,2013-02-19,,,37.7874596082333,-122.487892571932
 109578,DPW Maintained,Lagunaria patersonii :: Primrose Tree,10X Santa Rosa Ave,2.0,Sidewalk: Curb side : Cutout,Private,2015-02-24,3.0,3x3,37.72600848708289,-122.434372977031
 31932,DPW Maintained,Leptospermum scoparium :: New Zealand Tea Tree,1210 47th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1995-06-26,7.0,,37.763844998562206,-122.507170151225
-36851,Permitted Site,Pittosporum undulatum :: Victorian Box,,5.0,Sidewalk: Curb side : Cutout,Private,1998-05-26,,,,
 254530,Permitted Site,Olea europaea 'Majestic Beauty' :: Majestic Beauty Fruitless Olive,501 Campbell Ave,,Sidewalk: Curb side : Cutout,Private,2018-02-23,3.0,3x3,37.715210233181296,-122.406275889849
 56210,Permitted Site,Maytenus boaria :: Mayten,238 Precita Ave,1.0,Sidewalk: Curb side : Cutout,Private,1995-11-04,,,37.7473147938655,-122.41516213343701
 7874,DPW Maintained,Pittosporum undulatum :: Victorian Box,1030 Franklin St,2.0,Sidewalk: Curb side : Cutout,DPW,2010-04-01,3.0,4X4,37.784284215775706,-122.42269518854201
@@ -8363,7 +8253,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 87985,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,2101 Golden Gate Ave,1.0,Sidewalk: Curb side : Cutout,Private,2008-06-19,,3x3,37.777742206872894,-122.44529598388701
 95585,Permitted Site,Lophostemon confertus :: Brisbane Box,550 15th St,1.0,Sidewalk: Curb side : Cutout,Private,2009-07-10,,3x3,37.767218915555205,-122.406208392149
 100155,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,421 Arguello Blvd,2.0,Sidewalk: Curb side : Cutout,Private,2012-07-09,1.0,3x3,37.782765031751296,-122.459092051698
-36633,Permitted Site,Robinia x ambigua :: Locust,,22.0,Sidewalk: Curb side : Cutout,Private,1998-05-20,,,,
 62614,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,2825 Broadway,1.0,Sidewalk: Curb side : Cutout,Private,1986-02-21,5.0,,37.7930859121444,-122.443693518354
 13378,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,1000X Mansell St,4.0,Sidewalk: Curb side : Cutout,Rec/Park,2000-01-13,3.0,3X3,37.7191312087569,-122.411044830527
 37354,DPW Maintained,Rhaphiolepis Majestic Beauty :: Indian Hawthorn  'Majestic Beau',15 Florentine Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-06-15,5.0,,37.7130690603709,-122.4437768927
@@ -8375,7 +8264,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 108693,Permitted Site,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,1950X Beach St,2.0,Sidewalk: Curb side : Cutout,Private,2015-01-02,3.0,3x3,37.803910139733794,-122.440613252117
 91478,Permitted Site,Cupaniopsis anacardioides :: Carrotwood,601 25th St,9.0,Sidewalk: Curb side : Cutout,Private,2008-08-05,,3x3,37.7529621548081,-122.384860265748
 93912,Permitted Site,Ginkgo biloba 'Princeton Sentry' :: Princeton Sentry Maidenhair,2690 Broadway,4.0,Sidewalk: Curb side : Cutout,Private,2007-10-01,,,37.7935869539564,-122.441350205853
-46298,Permitted Site,Robinia x ambigua :: Locust,,4.0,Sidewalk: Curb side : Cutout,Private,2002-01-31,,,,
 92443,Permitted Site,Tristaniopsis laurina :: Swamp Myrtle,2638 45th Ave,2.0,Sidewalk: Curb side : Cutout,Private,2009-07-30,,3x3,37.7373442414634,-122.503076173661
 62597,DPW Maintained,Ligustrum lucidum :: Glossy Privet,765 37th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1986-02-22,7.0,,37.7744677278845,-122.49730988283301
 17656,Permitted Site,Liriodendron tulipifera :: Tulip Tree,1000X Phelps St,1.0,Sidewalk: Curb side : Cutout,PUC,1992-11-15,6.0,3X3,37.739249105451,-122.391917896407
@@ -8446,10 +8334,8 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 15528,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,2792 Mission St,1.0,Sidewalk: Curb side : Cutout,DPW,2019-12-24,3.0,3X3,37.752480630640605,-122.41855400595101
 220039,Permitted Site,Hymenosporum flavum :: Sweetshade,819 Alvarado St,1.0,Sidewalk: Curb side : Cutout,Private,2019-11-15,3.0,3x3,37.7533345862464,-122.439421190941
 291,DPW Maintained,Platanus x hispanica :: Sycamore: London Plane,3355 19th Ave,7.0,Sidewalk: Curb side : Cutout,DPW,1994-05-10,20.0,2x10,37.7281743270786,-122.475047162015
-46288,Permitted Site,Robinia x ambigua :: Locust,,15.0,Sidewalk: Curb side : Cutout,Private,2002-01-31,,,,
 63678,Permitted Site,Koelreuteria bipinnata :: Chinese Flame Tree,346 27th St,1.0,Sidewalk: Curb side : Cutout,Private,1987-05-26,,,37.74690479300921,-122.428023489983
 103726,DPW Maintained,Ulmus parvifolia 'Drake' :: Drake's Chinese Elm,2843 Folsom St,1.0,Sidewalk: Curb side : Cutout,DPW,2007-05-04,3.0,3x3,37.7518446697515,-122.41383742638399
-34900,Permitted Site,Magnolia grandiflora :: Southern Magnolia,,2.0,Sidewalk: Curb side : Cutout,Private,1997-09-05,,,,
 14280,DPW Maintained,Platanus x hispanica :: Sycamore: London Plane,2130 Market St,1.0,Sidewalk: Curb side : Cutout,DPW,2011-03-25,3.0,4x4,37.7671716798071,-122.42958337086901
 144909,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,626 19th Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2019-11-18,0.0,Width 3ft,37.776042971540605,-122.477919227901
 40276,Permitted Site,Prunus cerasifera :: Cherry Plum,203 Bartlett St,1.0,Sidewalk: Curb side : Cutout,Private,1999-05-13,,,37.7536963163316,-122.41960847387199
@@ -9242,7 +9128,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 97240,DPW Maintained,Quercus agrifolia :: Coast Live Oak,260 Madrid St,11.0,Sidewalk: Curb side : Cutout,SFUSD,2011-09-07,3.0,3x3,37.7249194341684,-122.430408699814
 45392,Permitted Site,Prunus serrulata :: Ornamental Cherry,321 Ashton Ave,1.0,Sidewalk: Curb side : Cutout,Private,2002-04-12,,,37.7241521077919,-122.462365734931
 91990,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,1373 09th Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2009-02-23,3.0,3x3,37.7626921923354,-122.46628597458401
-46290,Permitted Site,Robinia x ambigua :: Locust,,12.0,Sidewalk: Curb side : Cutout,Private,2002-01-31,,,,
 13597,DPW Maintained,Platanus x hispanica :: Sycamore: London Plane,540 Market St,5.0,Sidewalk: Curb side : Cutout,DPW,1993-09-01,35.0,4x4,37.7900092684568,-122.40064021469
 3673,DPW Maintained,Lagunaria patersonii :: Primrose Tree,100X Cargo Way,109.0,Sidewalk: Curb side : Cutout,Port,2017-04-10,3.0,3X3,37.7444159222737,-122.38381923847601
 54016,DPW Maintained,Prunus cerasifera :: Cherry Plum,847 35th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1987-07-10,4.0,,37.773018689528705,-122.495061623329
@@ -9291,7 +9176,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 41261,Permitted Site,Callistemon viminalis :: Weeping Bottlebrush,136 Mateo St,1.0,Sidewalk: Curb side : Cutout,Private,1999-12-07,,,37.73667393521,-122.429388624637
 260675,Permitted Site,Liriodendron tulipifera :: Tulip Tree,1561 Holloway Ave,4.0,Sidewalk: Curb side : Cutout,Private,2019-10-03,3.0,3x6,37.720691208706704,-122.47627876655399
 92334,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,2458 31st Ave,1.0,Sidewalk: Curb side : Cutout,Private,2009-07-28,1.0,3x3,37.7413837941251,-122.488384997097
-35283,Permitted Site,Olea europaea :: Olive Tree,,2.0,Sidewalk: Curb side : Cutout,Private,1998-02-17,,,,
 23291,DPW Maintained,Lophostemon confertus :: Brisbane Box,895X Van Ness Ave,5.0,Sidewalk: Curb side : Cutout,DPW,1997-06-03,3.0,4X4,37.78379350764661,-122.421109800219
 91433,DPW Maintained,Lophostemon confertus :: Brisbane Box,800X Portola Dr,9.0,Median : Cutout,DPW,2005-10-01,,4x4,37.7441872967186,-122.45405010417801
 28973,DPW Maintained,Lophostemon confertus :: Brisbane Box,220 09th St,2.0,Sidewalk: Curb side : Cutout,Private,2014-12-21,3.0,3x3,37.774545128196394,-122.412774399244
@@ -9471,7 +9355,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 62006,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1307 Bay St,1.0,Sidewalk: Curb side : Cutout,Private,1985-05-31,7.0,,37.8036137870071,-122.428745548466
 30006,DPW Maintained,Olea europaea :: Olive Tree,795X San Jose Ave,2.0,Median : Cutout,DPW,2007-03-24,3.0,3x3,37.742557503841205,-122.42319139937099
 72503,Undocumented,Prunus cerasifera :: Cherry Plum,4606 25th St,3.0,Sidewalk: Curb side : Cutout,Private,1996-08-17,4.0,3x3,37.7493657890432,-122.44056041085301
-35445,Permitted Site,Liquidambar styraciflua :: American Sweet Gum,790 Peninsula Ave,18.0,Sidewalk: Curb side : Cutout,Private,1998-03-16,,,,
 85716,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,1187X Howard St,1.0,Sidewalk: Curb side : Cutout,Private,2007-04-30,3.0,3x3,37.776346481943705,-122.411280822274
 64063,Permitted Site,Ficus microcarpa :: Chinese Banyan,1421 Stockton St,1.0,Sidewalk: Curb side : Cutout,Private,1988-05-20,,,37.7988456450066,-122.408961074202
 42959,Permitted Site,Acacia melanoxylon :: Blackwood Acacia,2616 Buchanan St,2.0,Sidewalk: Curb side : Cutout,Private,2000-07-05,,,37.7939466747915,-122.431393686963
@@ -9499,13 +9382,11 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 46509,DPW Maintained,Lophostemon confertus :: Brisbane Box,675 Minna St,3.0,Sidewalk: Curb side : Cutout,Private,2002-03-27,1.0,,37.777401825566294,-122.412043810672
 91045,Permitted Site,Pyrus calleryana 'Redspire' :: Ornamental Pear Tree 'Redspire',1100X Chestnut St,,Sidewalk: Curb side : Cutout,Private,2006-01-09,,3x3,37.8027072182013,-122.42154555228998
 62271,Permitted Site,Ceratonia siliqua :: Carob,108 Webster St,1.0,Sidewalk: Curb side : Cutout,Private,1985-10-09,,,37.771603457424604,-122.428567338549
-35048,Permitted Site,Liquidambar styraciflua :: American Sweet Gum,700 Peninsula Ave,1.0,Sidewalk: Curb side : Cutout,Private,1998-01-22,,,,
 37820,DPW Maintained,Lagunaria patersonii :: Primrose Tree,450X Moscow St,8.0,Sidewalk: Curb side : Cutout,SFUSD,1998-07-07,3.0,3x3,37.7203357084188,-122.428404441018
 62043,DPW Maintained,Afrocarpus gracilior :: Fern Pine,453 Bryant St,1.0,Sidewalk: Curb side : Cutout,Private,1993-06-29,3.0,,37.782031980627295,-122.394782327659
 98154,DPW Maintained,Laurus nobilis :: Sweet Bay: Grecian Laurel,466 15th Ave,2.0,Sidewalk: Curb side : Cutout,Private,2012-05-09,1.0,,37.779377741026394,-122.473802878969
 67316,DPW Maintained,Liquidambar styraciflua :: American Sweet Gum,746 10th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1992-07-15,6.0,,37.7742499931706,-122.468009109205
 115194,Permitted Site,Olea europaea 'Fruitless' :: Fruitless Olive,4150 20th St,1.0,Sidewalk: Curb side : Cutout,Private,2016-01-19,,,37.757846181761295,-122.433743471638
-39949,Permitted Site,Quercus agrifolia :: Coast Live Oak,0 Ervine St,1.0,Sidewalk: Curb side : Cutout,Private,1999-01-25,,,,
 92619,Permitted Site,Lophostemon confertus :: Brisbane Box,2X Hickory St,3.0,Sidewalk: Curb side : Cutout,Private,2009-08-31,3.0,3x3,37.7759425314636,-122.41954944541901
 44284,Permitted Site,Prunus cerasifera :: Cherry Plum,4724 17th St,1.0,Sidewalk: Curb side : Cutout,Private,2001-02-27,,,37.76177724706479,-122.44813559171499
 72362,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,651 22nd Ave,1.0,Sidewalk: Curb side : Cutout,Private,1996-02-17,12.0,,37.7754927009122,-122.48125778281299
@@ -9527,7 +9408,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 68049,Permitted Site,Magnolia grandiflora :: Southern Magnolia,2027 10th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1993-04-23,,,37.7504143969746,-122.466521647441
 91746,DPW Maintained,Pistacia chinensis :: Chinese Pistache,2600 Harrison St,1.0,Sidewalk: Curb side : Cutout,DPW,2007-03-07,3.0,3x3,37.7557803438331,-122.41226236274099
 37807,Permitted Site,Rhaphiolepis Majestic Beauty :: Indian Hawthorn  'Majestic Beau',465 Woolsey St,1.0,Sidewalk: Curb side : Cutout,Private,1998-07-06,,,37.7242215408534,-122.406174555323
-122659,DPW Maintained,Acer rubrum :: Red Maple,300x Hickory St,15.0,Sidewalk: Curb side : Cutout,Private,2016-11-10,3.0,3x3,,
 86614,DPW Maintained,Acer rubrum :: Red Maple,1070 Bryant St,1.0,Sidewalk: Curb side : Cutout,DPW,2011-11-03,3.0,3x3,37.7716398686135,-122.4081732249
 46618,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,1559 Jerrold Ave,2.0,Sidewalk: Curb side : Cutout,Private,2002-04-12,4.0,3x3,37.7382929141919,-122.38868912041
 95761,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,211 Moscow St,1.0,Sidewalk: Curb side : Cutout,Private,2011-09-07,3.0,3x3,37.724139060046795,-122.425406081532
@@ -9558,7 +9438,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 85959,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,1298X 26TH AVE,1.0,Sidewalk: Curb side : Cutout,DPW,2006-12-27,3.0,3x3,37.764173712799,-122.484693968894
 91640,DPW Maintained,Pyrus calleryana 'Aristocrat' :: Aristocrat Callery Pear,1427 South Van Ness Ave,,Sidewalk: Curb side : Cutout,DPW,2007-03-01,8.0,3x3,37.7503285203588,-122.415995902486
 40037,Permitted Site,Dodonaea viscosa :: Hop Bush,1190 Palou Ave,5.0,Sidewalk: Curb side : Cutout,Private,1999-02-03,,,37.729682546865604,-122.383179660981
-35743,Permitted Site,Rhamnus alaternus :: Italian Buckthorn,,1.0,Sidewalk: Curb side : Cutout,Private,1998-04-15,,,,
 63479,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,2082 Golden Gate Ave,1.0,Sidewalk: Curb side : Cutout,Private,1987-03-20,8.0,,37.778002239715,-122.444836123545
 84848,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,1201 Sunnydale Ave,8.0,Sidewalk: Curb side : Cutout,Private,2007-04-16,,,37.7109581313437,-122.41306521032699
 8340,DPW Maintained,Pinus canariensis :: Canary Island Pine,1300 Geary Blvd,6.0,Median : Cutout,DPW,1994-06-08,24.0,6,37.785436596276796,-122.424728193484
@@ -9620,7 +9499,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 12104,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,1281X La Salle Ave,8.0,Sidewalk: Curb side : Cutout,DPW,2011-08-26,3.0,3x3,37.732211440602605,-122.383447721977
 68598,Permitted Site,Crataegus laevigata :: English Hawthorn,1926 16th Ave,1.0,Sidewalk: Curb side : Cutout,Private,1993-10-21,,,37.7520016305294,-122.47300685208599
 76360,DPW Maintained,Dodonaea viscosa 'Purpurea' :: Purple Hopseed Bush,701 Amador St,3.0,Sidewalk: Curb side : Cutout,Private,1999-05-22,6.0,,37.7457389499883,-122.38502020301901
-35176,Permitted Site,Metrosideros excelsa :: New Zealand Xmas Tree,,6.0,Sidewalk: Curb side : Cutout,Private,1998-02-10,,,,
 89375,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,1046 Anza St,1.0,Sidewalk: Curb side : Cutout,DPW,2008-02-06,3.0,3x3,37.77938526212421,-122.45957890084101
 94939,Significant Tree,Morus alba :: White Mulberry,2525 Griffith St,,Sidewalk: Property side : Cutout,Housing Authority,2009-04-04,,,37.719615759266205,-122.38561332473999
 43035,Permitted Site,Leptospermum scoparium  'Helene Strybing' :: Helene Strybing New Zealand Tea Tree,520 Judson Ave,1.0,Sidewalk: Curb side : Cutout,Private,2000-07-06,,,37.728575889514296,-122.45278454952299
@@ -9789,7 +9667,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 58768,Permitted Site,Platanus x hispanica :: Sycamore: London Plane,2x CEDAR ST,1.0,Sidewalk: Curb side : Cutout,Private,1979-08-13,10.0,,37.7866762582357,-122.41834099513201
 50679,DPW Maintained,Acer rubrum :: Red Maple,320 Clementina St,4.0,Sidewalk: Curb side : Cutout,Private,2004-01-07,2.0,,37.781906913717705,-122.40245227846
 44813,Permitted Site,Hakea laurina :: Sea Urchin Tree,2700x Kirkham St,2.0,Sidewalk: Curb side : Cutout,Private,2001-04-12,,,37.7594083467555,-122.489870843925
-39952,Permitted Site,Quercus agrifolia :: Coast Live Oak,0 Ervine St,10.0,Sidewalk: Curb side : Cutout,Private,1999-01-25,,,,
 43413,Permitted Site,Magnolia grandiflora :: Southern Magnolia,1082 Noe St,1.0,Sidewalk: Curb side : Cutout,Private,2000-07-17,,,37.7517028574721,-122.431990463815
 4339,DPW Maintained,Pyrus kawakamii :: Evergreen Pear,901 Chenery St,1.0,Sidewalk: Curb side : Cutout,DPW,2016-01-02,3.0,3X3,37.7350741214051,-122.437365343013
 95747,DPW Maintained,Prunus serrulata 'Kwanzan' :: Kwanzan Flowering Cherry,223 London St,1.0,Sidewalk: Curb side : Cutout,Private,2011-09-07,2.0,3x3,37.7254423161963,-122.433094867748
@@ -9821,7 +9698,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 45433,Permitted Site,Prunus cerasifera :: Cherry Plum,869 Head St,2.0,Sidewalk: Curb side : Cutout,Private,2001-07-13,,,37.7228737252024,-122.462876614203
 73429,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,700 Central Ave,1.0,Sidewalk: Curb side : Cutout,Private,1994-07-16,8.0,,37.7761654213524,-122.444716582684
 87986,DPW Maintained,Pyrus calleryana :: Ornamental Pear,300x Jones St,1.0,Sidewalk: Curb side : Cutout,Private,2008-06-20,5.0,3x3,37.7840968141696,-122.41254219787399
-46715,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,,4.0,Sidewalk: Curb side : Cutout,Private,2002-04-24,,,,
 39606,Permitted Site,Prunus cerasifera :: Cherry Plum,425 Belvedere St,1.0,Sidewalk: Curb side : Cutout,Private,1998-12-29,,,37.7646048701954,-122.44844630961
 25385,DPW Maintained,Arbutus 'Marina' :: Hybrid Strawberry Tree,1231 Geneva Ave,1.0,Sidewalk: Curb side : Cutout,Private,2011-05-06,3.0,3x3,37.71407003188121,-122.435582613755
 94695,Permitted Site,Lagunaria patersonii :: Primrose Tree,12 Dehon St,2.0,Sidewalk: Curb side : Cutout,Private,2010-10-28,,3x3,37.7643762595393,-122.430152577782
@@ -9890,7 +9766,6 @@ tree_id,legal_status,species,address,site_order,site_info,caretaker,date,dbh,plo
 91524,DPW Maintained,Betula spp :: Birch,350 Kansas St,1.0,Sidewalk: Curb side : Cutout,Private,2009-05-12,2.0,3x3,37.7654299650425,-122.403700204704
 89643,DPW Maintained,Pyrus calleryana :: Ornamental Pear,3315 Anza St,1.0,Sidewalk: Curb side : Cutout,DPW,2008-03-21,3.0,3x3,37.7781218531992,-122.483942288438
 48523,Permitted Site,Lophostemon confertus :: Brisbane Box,1(REVISED) Church St,16.0,Sidewalk: Curb side : Cutout,Private,2002-08-22,,,37.7703294028669,-122.42913226260099
-34906,Permitted Site,Magnolia grandiflora :: Southern Magnolia,,1.0,Sidewalk: Curb side : Cutout,Private,1997-09-05,,,,
 90423,DPW Maintained,Tristaniopsis laurina :: Swamp Myrtle,249 Duboce Ave,1.0,Sidewalk: Curb side : Cutout,DPW,2008-02-22,3.0,3x3,37.769628908029496,-122.42542559205299
 44391,DPW Maintained,Magnolia grandiflora :: Southern Magnolia,102 Cordova St,1.0,Sidewalk: Curb side : Cutout,Private,2001-03-22,4.0,,37.712133038777104,-122.435885607952
 36391,Permitted Site,Arbutus 'Marina' :: Hybrid Strawberry Tree,501X WILDWOOD WAY,4.0,Sidewalk: Curb side : Cutout,Private,1998-05-18,,,37.7275855683004,-122.460323516414
