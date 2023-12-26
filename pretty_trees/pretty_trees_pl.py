@@ -19,17 +19,11 @@ df_dbh_grouped = (trees_df
                   .sort('dbh')
                  )
 
-# first_width = st.number_input('First Width', min_value=1, value=1)
-# second_width = st.number_input('Second Width', min_value=1, value=1)
-# third_width = st.number_input('Third Width', min_value=1, value=1)
-# col1, col2, col3 = st.columns(
-#       (first_width,second_width,third_width))
+tab1, tab2, tab3 = st.tabs(["Line Chart", "Bar Chart", "Area Chart"])
 
-col1, col2, col3 = st.columns(3, gap='large')
-
-with col1:
+with tab1:
     st.line_chart(df_dbh_grouped, x='dbh', y='tree_count')
-with col2:
+with tab2:
     st.bar_chart(df_dbh_grouped, x='dbh', y='tree_count')
-with col3:
+with tab3:
     st.area_chart(df_dbh_grouped, x='dbh', y='tree_count')
