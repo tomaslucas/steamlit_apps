@@ -10,6 +10,11 @@ st.write(
     """
 )
 trees_df = pl.read_csv('trees.csv')
+
+owners = st.sidebar.multiselect("Tree Owner Filter", trees_df.select("caretaker").unique(maintain_order=True).to_series())
+if owners:
+    trees_df = trees_df.filter(pl.col("caretaker").is_in(owners))
+
 df_dbh_grouped = (trees_df
                   .group_by(pl.col('dbh'))
                   .agg(
