@@ -17,7 +17,7 @@ unique_caretakers = trees_df["caretaker"].unique()
 owners = st.sidebar.multiselect(
     "Tree Owner Filter", 
     unique_caretakers)
-graph_color = st.sidebar.color_picker("Graph Colors")
+graph_color = st.sidebar.color_picker("Graph Colors", '#28F320')
 if owners:
     trees_df = trees_df[trees_df["caretaker"].isin(owners)]
 df_dbh_grouped = pd.DataFrame(trees_df.groupby(['dbh']).count()['tree_id'])

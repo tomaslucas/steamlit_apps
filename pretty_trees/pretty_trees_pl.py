@@ -18,7 +18,7 @@ trees_df = trees_df.with_columns(
 unique_caretakers = trees_df.select("caretaker").unique(maintain_order=True).to_series()
 
 owners = st.sidebar.multiselect("Tree Owner Filter", unique_caretakers)
-graph_color = st.sidebar.color_picker("Graph Colors")
+graph_color = st.sidebar.color_picker("Graph Colors", '#28F320')
 
 if owners:
     trees_df = trees_df.filter(pl.col("caretaker").is_in(owners))
