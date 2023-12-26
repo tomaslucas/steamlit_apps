@@ -18,6 +18,7 @@ trees_df = trees_df.with_columns(
 unique_caretakers = trees_df.select("caretaker").unique(maintain_order=True).to_series()
 
 owners = st.sidebar.multiselect("Tree Owner Filter", unique_caretakers)
+graph_color = st.sidebar.color_picker("Graph Colors")
 
 if owners:
     trees_df = trees_df.filter(pl.col("caretaker").is_in(owners))
@@ -35,15 +36,17 @@ col1, col2 = st.columns(2)
 with col1:
     fig = px.histogram(
         trees_df, x='dbh',
-        title="Tree Width")
-    st.plotly_chart(fig)
+        title="Tree Width",
+        color_discrete_sequence=[graph_color],)
+    st.plotly_chart(fig, use_container_width=True)
 
 with col2:
     fig = px.histogram(
         trees_df, x = 'age',
-        title = 'Tree Age'
+        title = 'Tree Age',
+        color_discrete_sequence=[graph_color],
     )
-    st.plotly_chart(fig)
+    st.plotly_chart(fig, use_container_width=True)
 
 st.write("Trees by Location")
 
