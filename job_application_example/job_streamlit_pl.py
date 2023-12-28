@@ -87,9 +87,7 @@ with st.echo():
 
 
 # execute haversine function definition
-def haversine_distance(long1, lat1,
-                       long2, lat2,
-                       degrees=False):
+def haversine_distance(long1, lat1, long2, lat2, degrees=False):
     # degrees vs radians
     if degrees == True:
         long1 = np.radians(long1)
@@ -134,17 +132,21 @@ def get_distance_list(airport_dataframe, airport_code):
         # selects the row from our airport code input
         lat = row.select("Lat").item()  # get latitude
         long = row.select("Long").item()  # get longitude
-        df = airport_dataframe.filter(pl.col('Airport Code') != airport_code)
         # filter out our airport, implement haversine distance
-        df = df.with_columns(
-            Distance = pl.struct(['Lat', 'Long']).map_batches(
-                lambda x: haversine_distance(
-                    lat1=lat, long1=long, lat2=x.struct.field("Lat"), long2=x.struct.field("Long"), degrees=True
-                    )
-            )
-        )
-        df_to_return = df.sort(by="Distance")
-        return df_to_return # return values sorted
+        return (airport_dataframe
+              .filter(pl.col('Airport Code') != airport_code)
+              .with_columns(Distance = pl.struct(['Lat', 'Long'])
+                            .map_batches(lambda x: haversine_distance(
+                                lat1=lat,
+                                long1=long,
+                                lat2=x.struct.field("Lat"),
+                                long2=x.struct.field("Long"),
+                                degrees=True
+                                )
+                            )
+              )
+        ).sort(by="Distance")
+
 
 with st.echo():
 
@@ -153,17 +155,20 @@ with st.echo():
         # selects the row from our airport code input
         lat = row.select("Lat").item()  # get latitude
         long = row.select("Long").item()  # get longitude
-        df = airport_dataframe.filter(pl.col('Airport Code') != airport_code)
-        # filter out our airport, implement haversine distance
-        df = df.with_columns(
-            Distance = pl.struct(['Lat', 'Long']).map_batches(
-                lambda x: haversine_distance(
-                    lat1=lat, long1=long, lat2=x.struct.field("Lat"), long2=x.struct.field("Long"), degrees=True
-                    )
-            )
-        )
-        df_to_return = df.sort(by="Distance")
-        return df_to_return # return values sorted
+        # filter out our airport, implement haversine distance and sort by Distance
+        return (airport_dataframe
+              .filter(pl.col('Airport Code') != airport_code)
+              .with_columns(Distance = pl.struct(['Lat', 'Long'])
+                            .map_batches(lambda x: haversine_distance(
+                                lat1=lat,
+                                long1=long,
+                                lat2=x.struct.field("Lat"),
+                                long2=x.struct.field("Long"),
+                                degrees=True
+                                )
+                            )
+              )
+        ).sort(by="Distance")
 
 
 """
